@@ -23,11 +23,10 @@
 <!-- Counter Here -->
 <Counter />
 <!-- End Counter -->
- 
+
 <!-- Simulasi Here -->
 <Simulasi />
 <!-- End Simulasi -->
-
 
 <!-- Blog Here -->
 <Blog />

@@ -1,23 +1,23 @@
 /* Tombol bahasa */
 .language-switch button {
-  flex: 1;
-  padding: 10px 20px;
-  background-color: white;
-  color: #007bff;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  font-size: 14px;
-  transition: all 0.3s ease;
+	flex: 1;
+	padding: 10px 20px;
+	background-color: white;
+	color: #007bff;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-size: 14px;
+	transition: all 0.3s ease;
 }
 
 /* Tombol aktif */
 .language-switch button.active {
-  background-color: #007bff;
-  color: white;
-  font-weight: bold;
+	background-color: #007bff;
+	color: white;
+	font-weight: bold;
 }
 
 .header-menu .h-80 .menu-left-block .menu-logo {
-  width: 200px;
+	width: 200px;
 }
