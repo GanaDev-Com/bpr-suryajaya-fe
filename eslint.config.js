@@ -18,7 +18,9 @@ export default ts.config(
 		languageOptions: {
 			globals: {
 				...globals.browser,
-				...globals.node
+				...globals.node,
+				$: 'readonly',
+				ScrollReveal: 'readonly'
 			}
 		}
 	},
