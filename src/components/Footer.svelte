@@ -115,11 +115,7 @@
 								</div>
 							</div>
 							<div class="send-block mt-20 flex-item-center">
-								<input
-									class="caption1 text-secondary"
-									type="text"
-									placeholder="Email Anda..."
-								/>
+								<input class="caption1 text-secondary" type="text" placeholder="Email Anda..." />
 								<button class="flex-center" aria-label="newsletter">
 									<i class="ph ph-paper-plane-tilt text-white"></i>
 								</button>
