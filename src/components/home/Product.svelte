@@ -1,6 +1,6 @@
 <div class="service-block mt-100">
 	<div class="container">
-		<div class="heading3 text-center">Produk dan Layanan Kami</div>
+		<div class="heading4 text-center">Produk dan Layanan Kami</div>
 		<div class="list-service row mt-40 row-gap-32">
 			<div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
 				<div class="service-item hover-box-shadow bora-8 p-32 bg-white border-line-1px">
