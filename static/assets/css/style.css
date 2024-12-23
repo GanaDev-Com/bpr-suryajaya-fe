@@ -522,7 +522,7 @@ Container: Start
 }
 
 .bg-on-surface {
-	background-color: var(--on-surface);
+	background-color: var(--blue);
 }
 
 .bg-transparent {
@@ -1528,7 +1528,7 @@ Container: Start
 	cursor: pointer;
 }
 .hover-bg-gradient:hover {
-	background-color: var(--gradient) !important;
+	background-color: var(--dark) !important;
 }
 
 .hover-bg-success {
@@ -5308,7 +5308,7 @@ Section About us Home2(Company Overview): Start
 	}
 }
 .financial-assessment-block .button-block .button-share:last-child:hover {
-	border: 2px solid var(--on-surface);
+	border: 2px solid var(--blue);
 }
 @media (max-width: 1169.99px) {
 	.financial-assessment-block .row {
