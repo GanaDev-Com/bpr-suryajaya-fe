@@ -27,7 +27,7 @@
 					<div class="button-block mt-40 animate__animated animate__fadeInUp animate__delay-0-8s">
 						<a
 							class="button-share display-inline-block hover-button-black border-none bg-blue text-white text-button pl-28 pr-28 pt-12 pb-12 bora-8"
-							href="service-one.html">Pelajari Layanan Kami</a
+							href="#!">Pelajari Layanan Kami</a
 						>
 					</div>
 				</div>
@@ -50,7 +50,7 @@
 					<div class="button-block mt-40">
 						<a
 							class="button-share display-inline-block hover-button-black border-none bg-blue text-white text-button pl-28 pr-28 pt-12 pb-12 bora-8"
-							href="service-one.html">Pelajari Edukasi Bertransaksi</a
+							href="#!">Pelajari Edukasi Bertransaksi</a
 						>
 					</div>
 				</div>
@@ -74,7 +74,7 @@
 					<div class="button-block mt-40">
 						<a
 							class="button-share display-inline-block hover-button-black border-none bg-blue text-white text-button pl-28 pr-28 pt-12 pb-12 bora-8"
-							href="service-one.html">Kontak Layanan Pelanggan</a
+							href="#!">Kontak Layanan Pelanggan</a
 						>
 					</div>
 				</div>
