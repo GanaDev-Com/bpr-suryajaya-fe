@@ -23,22 +23,26 @@
 									class="item bora-50 w-28 h-28 border-grey-2px flex-center"
 									href="https://www.facebook.com/"
 									target="_blank"><i class="icon-facebook fs-12"></i></a
-								><a
+								>
+								<!-- <a
 									aria-label="icon linkedin"
 									class="item bora-50 w-28 h-28 border-grey-2px flex-center"
 									href="https://www.linkedin.com/"
 									target="_blank"><i class="icon-in fs-12"></i></a
-								><a
+								>
+								<a
 									aria-label="icon twitter"
 									class="item bora-50 w-28 h-28 border-grey-2px flex-center"
 									href="https://www.twitter.com/"
 									target="_blank"><i class="icon-twitter fs-10"></i></a
-								><a
+								> -->
+								<a
 									aria-label="icon instagram"
 									class="item bora-50 w-28 h-28 border-grey-2px flex-center"
 									href="https://www.instagram.com/"
 									target="_blank"><i class="icon-insta fs-10"></i></a
-								><a
+								>
+								<a
 									aria-label="icon youtube"
 									class="item bora-50 w-28 h-28 border-grey-2px flex-center"
 									href="https://www.youtube.com/"
@@ -136,7 +140,7 @@
 				<div class="footer-bottom flex-between pt-12 pb-12">
 					<div class="left-block flex-item-center">
 						<div class="copy-right text-line caption1">
-							©{year + ' ' + appName} . All Rights Reserved.
+							© {year + ' ' + appName}. All Rights Reserved.
 						</div>
 					</div>
 					<div class="nav-link flex-item-center gap-10">
