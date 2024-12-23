@@ -21,3 +21,7 @@
 .header-menu .h-80 .menu-left-block .menu-logo {
 	width: 200px;
 }
+
+.text-justify {
+	text-align: justify;
+}

@@ -13,10 +13,11 @@
 							<div class="number heading3 text-placehover"></div>
 						</div>
 						<div class="desc">
-							<div class="heading7 hover-text-blue">Cryptocurrency Trading</div>
-							<div class="body3 text-secondary mt-4">
-								Experience the excitement and potential of the cryptocurrency market with our expert
-								trading services.
+							<div class="heading7 hover-text-blue">Tabungan Umum Surya Jaya</div>
+							<div class="body3 text-secondary mt-4 text-justify">
+								Tabungan harian tanpa jangka waktu tertentu, dengan setoran dan penarikan yang dapat
+								dilakukan kapan saja. Cocok untuk Anda yang menginginkan kemudahan dalam mengelola
+								tabungan secara fleksibel dan praktis.
 							</div>
 						</div></a
 					>
@@ -30,10 +31,11 @@
 							<div class="number heading3 text-placehover"></div>
 						</div>
 						<div class="desc">
-							<div class="heading7 hover-text-blue">Portfolio Management</div>
+							<div class="heading7 hover-text-blue">Tabungan Surya Save</div>
 							<div class="body3 text-secondary mt-4">
-								We analyze market trends, manage risks, and optimize your portfolio to maximize
-								returns and achieve your financial goals.
+								Tabungan harian dengan suku bunga kompetitif, dihitung setiap hari. Fleksibel dan
+								mudah, setoran serta penarikan dapat dilakukan kapan saja. Cocok untuk Anda yang
+								mencari kemudahan dan keuntungan dalam mengelola keuangan pribadi.
 							</div>
 						</div></a
 					>
@@ -43,14 +45,15 @@
 				<div class="service-item hover-box-shadow bora-8 p-32 bg-white border-line-1px">
 					<a class="service-item-main flex-column gap-16" href="service-investment-advice.html">
 						<div class="heading flex-between">
-							<i class="icon-hand-house text-blue fs-60"></i>
+							<i class="icon-education text-blue fs-52"></i>
 							<div class="number heading3 text-placehover"></div>
 						</div>
 						<div class="desc">
-							<div class="heading7 hover-text-blue">Investment Advice</div>
+							<div class="heading7 hover-text-blue">Tabungan Kartika</div>
 							<div class="body3 text-secondary mt-4">
-								Our team of experienced advisors will guide you in making informed investment
-								decisions, whether you're a beginner or an experienced trader.
+								Tabungan program untuk mempersiapkan kesejahteraan masa depan, seperti biaya
+								pendidikan, upacara keagamaan, dan investasi. Cocok untuk Anda yang ingin
+								merencanakan masa depan dengan lebih terarah dan aman.
 							</div>
 						</div></a
 					>
@@ -60,14 +63,15 @@
 				<div class="service-item hover-box-shadow bora-8 p-32 bg-white border-line-1px">
 					<a class="service-item-main flex-column gap-16" href="service-detail.html">
 						<div class="heading flex-between">
-							<i class="icon-gear-warning text-blue fs-60"></i>
+							<i class="icon-coin-collect text-blue fs-60"></i>
 							<div class="number heading3 text-placehover"></div>
 						</div>
 						<div class="desc">
-							<div class="heading7 hover-text-blue">Risk Management</div>
+							<div class="heading7 hover-text-blue">Tabunganku</div>
 							<div class="body3 text-secondary mt-4">
-								We employ industry-leading tools and techniques to protect your investments and
-								minimize potential losses.
+								Tabungan perorangan dengan syarat mudah, dirancang untuk menumbuhkan budaya menabung
+								dan meningkatkan kesejahteraan. Cocok untuk semua kalangan yang ingin memulai
+								kebiasaan menabung dengan cara yang sederhana.
 							</div>
 						</div></a
 					>
@@ -81,10 +85,11 @@
 							<div class="number heading3 text-placehover"></div>
 						</div>
 						<div class="desc">
-							<div class="heading7 hover-text-blue">Research and Analysis</div>
+							<div class="heading7 hover-text-blue">Deposito Berjangka</div>
 							<div class="body3 text-secondary mt-4">
-								We provide timely reports, market updates, and data-driven insights to help you make
-								informed trading decisions
+								Deposito berjangka yang dirancang untuk membantu Anda merencanakan masa depan dengan
+								aman dan menguntungkan. Cocok untuk Anda yang ingin menanamkan dana dengan
+								keuntungan tetap dan aman.
 							</div>
 						</div></a
 					>
@@ -94,14 +99,15 @@
 				<div class="service-item hover-box-shadow bora-8 p-32 bg-white border-line-1px">
 					<a class="service-item-main flex-column gap-16" href="service-education-resources.html">
 						<div class="heading flex-between">
-							<i class="icon-education text-blue fs-52"></i>
+							<i class="icon-hand-house text-blue fs-60"></i>
 							<div class="number heading3 text-placehover"></div>
 						</div>
 						<div class="desc">
-							<div class="heading7 hover-text-blue">Education and Resources</div>
+							<div class="heading7 hover-text-blue">Kredit</div>
 							<div class="body3 text-secondary mt-4">
-								Expand your knowledge and skills in cryptocurrency trading through our educational
-								resources.
+								Beragam pilihan Kredit Modal Kerja, Kredit Investasi, Kredit Konsumtif, dan Kredit
+								Tanpa Agunan dengan suku bunga menurun murni dan bunga tetap untuk memenuhi
+								kebutuhan finansial Anda. Cocok untuk usaha atau kebutuhan pribadi anda.
 							</div>
 						</div></a
 					>

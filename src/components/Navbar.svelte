@@ -13,13 +13,13 @@
 						<a class="nav-link" href="#!">Produk Kami <i class="ph ph-caret-down fs-14"></i></a>
 						<ul class="sub-nav hidden">
 							<li class="sub-nav-item">
-								<a class="sub-nav-link" href="about-one.html">Kredit</a>
+								<a class="sub-nav-link" href="#!">Kredit</a>
 							</li>
 							<li class="sub-nav-item">
-								<a class="sub-nav-link" href="about-two.html">Tabungan</a>
+								<a class="sub-nav-link" href="#!">Tabungan</a>
 							</li>
 							<li class="sub-nav-item">
-								<a class="sub-nav-link" href="about-two.html">Deposito</a>
+								<a class="sub-nav-link" href="#!">Deposito</a>
 							</li>
 						</ul>
 					</li>
@@ -29,13 +29,13 @@
 						>
 						<ul class="sub-nav hidden">
 							<li class="sub-nav-item">
-								<a class="sub-nav-link" href="case-studies-one.html">Laporan Tahunan</a>
+								<a class="sub-nav-link" href="#!">Laporan Tahunan</a>
 							</li>
 							<li class="sub-nav-item">
-								<a class="sub-nav-link" href="case-studies-two.html">Laporan Tata Kelola</a>
+								<a class="sub-nav-link" href="#!">Laporan Tata Kelola</a>
 							</li>
 							<li class="sub-nav-item">
-								<a class="sub-nav-link" href="case-studies-detail.html">Laporan Publikasi</a>
+								<a class="sub-nav-link" href="#!">Laporan Publikasi</a>
 							</li>
 						</ul>
 					</li>
@@ -69,13 +69,13 @@
 							>
 							<ul class="sub-nav-mobile">
 								<li class="sub-nav-item pl-12 pr-12 pt-8 pb-8">
-									<a class="sub-nav-link fs-14" href="about-one.html">Kredit</a>
+									<a class="sub-nav-link fs-14" href="#!">Kredit</a>
 								</li>
 								<li class="sub-nav-item pl-12 pr-12 pt-8 pb-8">
-									<a class="sub-nav-link fs-14" href="about-two.html">Tabungan</a>
+									<a class="sub-nav-link fs-14" href="#!">Tabungan</a>
 								</li>
 								<li class="sub-nav-item pl-12 pr-12 pt-8 pb-8">
-									<a class="sub-nav-link fs-14" href="about-two.html">Deposito</a>
+									<a class="sub-nav-link fs-14" href="#!">Deposito</a>
 								</li>
 							</ul>
 						</li>
@@ -87,13 +87,13 @@
 							>
 							<ul class="sub-nav-mobile">
 								<li class="sub-nav-item pl-12 pr-12 pt-8 pb-8">
-									<a class="sub-nav-link fs-14" href="service-one.html">Laporan Tahunan</a>
+									<a class="sub-nav-link fs-14" href="#!">Laporan Tahunan</a>
 								</li>
 								<li class="sub-nav-item pl-12 pr-12 pt-8 pb-8">
-									<a class="sub-nav-link fs-14" href="service-two.html">Laporan Tata Kelola</a>
+									<a class="sub-nav-link fs-14" href="#!">Laporan Tata Kelola</a>
 								</li>
 								<li class="sub-nav-item pl-12 pr-12 pt-8 pb-8">
-									<a class="sub-nav-link fs-14" href="service-detail.html">Laporan Publikasi</a>
+									<a class="sub-nav-link fs-14" href="#!">Laporan Publikasi</a>
 								</li>
 							</ul>
 						</li>
