@@ -12,42 +12,54 @@
 			</div>
 		</div>
 	</div>
-	<div class="list pb-32">
+	<div class="list pb-32 pt-32">
 		<div class="bg-img flex-center" style="width: 170px !important;">
-			<img class="w-100" src="assets/images/partner/ayo-ke-bank.png" alt="" />
+			<img class="w-100" loading="lazy" src="assets/images/partner/ayo-ke-bank.png" alt="" />
 		</div>
 		<div class="bg-img flex-center" style="width: 50px !important;">
-			<img class="w-100" src="assets/images/partner/bpr-logo.png" alt="" />
+			<img class="w-100" loading="lazy" src="assets/images/partner/bpr-logo.png" alt="" />
 		</div>
 		<div class="bg-img flex-center" style="width: 70px !important;">
-			<img class="w-100" src="assets/images/partner/logo-ojk.png" alt="" />
+			<img class="w-100" loading="lazy" src="assets/images/partner/logo-ojk.png" alt="" />
 		</div>
 		<div class="bg-img flex-center" style="width: 120px !important;">
-			<img class="w-100" src="assets/images/partner/lps-logo.png" alt="" />
+			<img class="w-100" loading="lazy" src="assets/images/partner/lps-logo.png" alt="" />
 		</div>
 		<div class="bg-img flex-center" style="width: 170px !important;">
-			<img class="w-100" src="assets/images/partner/ayo-ke-bank.png" alt="" />
+			<img class="w-100" loading="lazy" src="assets/images/partner/ayo-ke-bank.png" alt="" />
 		</div>
 		<div class="bg-img flex-center" style="width: 50px !important;">
-			<img class="w-100" src="assets/images/partner/bpr-logo.png" alt="" />
+			<img class="w-100" loading="lazy" src="assets/images/partner/bpr-logo.png" alt="" />
 		</div>
 		<div class="bg-img flex-center" style="width: 70px !important;">
-			<img class="w-100" src="assets/images/partner/logo-ojk.png" alt="" />
+			<img class="w-100" loading="lazy" src="assets/images/partner/logo-ojk.png" alt="" />
 		</div>
 		<div class="bg-img flex-center" style="width: 120px !important;">
-			<img class="w-100" src="assets/images/partner/lps-logo.png" alt="" />
+			<img class="w-100" loading="lazy" src="assets/images/partner/lps-logo.png" alt="" />
 		</div>
 		<div class="bg-img flex-center" style="width: 170px !important;">
-			<img class="w-100" src="assets/images/partner/ayo-ke-bank.png" alt="" />
+			<img class="w-100" loading="lazy" src="assets/images/partner/ayo-ke-bank.png" alt="" />
 		</div>
 		<div class="bg-img flex-center" style="width: 50px !important;">
-			<img class="w-100" src="assets/images/partner/bpr-logo.png" alt="" />
+			<img class="w-100" loading="lazy" src="assets/images/partner/bpr-logo.png" alt="" />
 		</div>
 		<div class="bg-img flex-center" style="width: 70px !important;">
-			<img class="w-100" src="assets/images/partner/logo-ojk.png" alt="" />
+			<img class="w-100" loading="lazy" src="assets/images/partner/logo-ojk.png" alt="" />
 		</div>
 		<div class="bg-img flex-center" style="width: 120px !important;">
-			<img class="w-100" src="assets/images/partner/lps-logo.png" alt="" />
+			<img class="w-100" loading="lazy" src="assets/images/partner/lps-logo.png" alt="" />
+		</div>
+		<div class="bg-img flex-center" style="width: 170px !important;">
+			<img class="w-100" loading="lazy" src="assets/images/partner/ayo-ke-bank.png" alt="" />
+		</div>
+		<div class="bg-img flex-center" style="width: 50px !important;">
+			<img class="w-100" loading="lazy" src="assets/images/partner/bpr-logo.png" alt="" />
+		</div>
+		<div class="bg-img flex-center" style="width: 70px !important;">
+			<img class="w-100" loading="lazy" src="assets/images/partner/logo-ojk.png" alt="" />
+		</div>
+		<div class="bg-img flex-center" style="width: 120px !important;">
+			<img class="w-100" loading="lazy" src="assets/images/partner/lps-logo.png" alt="" />
 		</div>
 	</div>
 </div>
