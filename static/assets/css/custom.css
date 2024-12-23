@@ -1,13 +1,13 @@
 /* Tombol bahasa */
 .language-switch button {
 	flex: 1;
-	padding: 10px 20px;
+	padding: 3px 5px;
 	background-color: white;
 	color: #007bff;
 	border: none;
 	outline: none;
 	cursor: pointer;
-	font-size: 14px;
+	font-size: 12px;
 	transition: all 0.3s ease;
 }
 

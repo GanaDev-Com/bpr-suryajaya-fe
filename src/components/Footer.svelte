@@ -1,3 +1,10 @@
+<script lang="ts">
+	export let appName: string;
+
+	const date = new Date();
+	const year = date.getFullYear();
+</script>
+
 <div id="footer">
 	<div class="style-one">
 		<div class="footer-block bg-dark pt-60">
@@ -128,7 +135,9 @@
 				<div class="border-line"></div>
 				<div class="footer-bottom flex-between pt-12 pb-12">
 					<div class="left-block flex-item-center">
-						<div class="copy-right text-line caption1">©2023 Finatex. All Rights Reserved.</div>
+						<div class="copy-right text-line caption1">
+							©{year + ' ' + appName} . All Rights Reserved.
+						</div>
 					</div>
 					<div class="nav-link flex-item-center gap-10">
 						<a class="text-line caption1 hover-underline" href="#!">Terms Of Services</a><span
