@@ -23,18 +23,14 @@
 							We're a devoted team providing premium financial solutions. Explore our mission,
 							values, and achievements as we empower clients for a secure financial future.
 						</div>
-						<div class="more-infor mt-24">
-							
-						</div>
+						<div class="more-infor mt-24"></div>
 					</div>
 					<div class="description item-filter hide" data-name="mission">
 						<div class="title body3 text-secondary mt-16">
 							Our mission is to provide comprehensive and personalized financial solutions that
 							empower our clients to achieve their financial goals and secure their future.
 						</div>
-						<div class="more-infor mt-24">
-							
-						</div>
+						<div class="more-infor mt-24"></div>
 					</div>
 					<div class="description item-filter hide" data-name="vision">
 						<div class="title body3 text-secondary mt-16">
@@ -42,9 +38,7 @@
 							financial success, diligently guiding our valued clients toward a secure and
 							prosperous future.
 						</div>
-						<div class="more-infor mt-24">
-							
-						</div>
+						<div class="more-infor mt-24"></div>
 					</div>
 				</div>
 			</div>

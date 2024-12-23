@@ -4,10 +4,7 @@
 		<div class="list-service row mt-40 row-gap-32">
 			<div class="col-12 col-xl-4 col-lg-6 col-md-6 col-sm-6">
 				<div class="service-item hover-box-shadow bora-8 p-32 bg-white border-line-1px">
-					<a
-						class="service-item-main flex-column gap-16"
-						href="#!"
-					>
+					<a class="service-item-main flex-column gap-16" href="#!">
 						<div class="heading flex-between">
 							<i class="icon-coin-chair text-blue fs-60"></i>
 							<div class="number heading3 text-placehover"></div>

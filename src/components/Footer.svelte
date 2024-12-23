@@ -60,18 +60,13 @@
 										<a class="caption1 text-line hover-underline" href="#!">About us</a>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!"
-											>Services</a
-										>
+										<a class="caption1 text-line hover-underline" href="#!">Services</a>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!"
-											>Case Studies</a
-										>
+										<a class="caption1 text-line hover-underline" href="#!">Case Studies</a>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Contact</a
-										>
+										<a class="caption1 text-line hover-underline" href="#!">Contact</a>
 									</li>
 								</ul>
 							</div>
@@ -88,9 +83,7 @@
 										<a class="caption1 text-line hover-underline" href="#!">Partners</a>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!"
-											>Support Center</a
-										>
+										<a class="caption1 text-line hover-underline" href="#!">Support Center</a>
 									</li>
 								</ul>
 							</div>
@@ -98,23 +91,16 @@
 								<div class="item-heading text-button-small text-white">Blog</div>
 								<ul class="list-nav mt-4">
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!"
-											>Blog List</a
-										>
+										<a class="caption1 text-line hover-underline" href="#!">Blog List</a>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Blog Grid</a
-										>
+										<a class="caption1 text-line hover-underline" href="#!">Blog Grid</a>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!"
-											>Masonry</a
-										>
+										<a class="caption1 text-line hover-underline" href="#!">Masonry</a>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!"
-											>Blog Detail</a
-										>
+										<a class="caption1 text-line hover-underline" href="#!">Blog Detail</a>
 									</li>
 								</ul>
 							</div>

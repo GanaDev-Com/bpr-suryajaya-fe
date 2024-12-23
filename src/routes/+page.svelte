@@ -40,4 +40,3 @@
 <!-- Blog Here -->
 <Blog />
 <!-- End Blog -->
-
