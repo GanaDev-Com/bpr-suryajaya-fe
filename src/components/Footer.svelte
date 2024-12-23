@@ -109,15 +109,26 @@
 					<div class="col-3">
 						<div class="company-contact">
 							<div class="heading text-button-small text-white">Berlangganan</div>
+							<div class="mt-12">
+								<div class="caption1 text-line">
+									Dapatkan promo dan penawaran terbaik dari BPR Suryajaya Kubutambahan
+								</div>
+							</div>
 							<div class="send-block mt-20 flex-item-center">
 								<input
 									class="caption1 text-secondary"
 									type="text"
-									placeholder="Your email address"
+									placeholder="Email Anda..."
 								/>
 								<button class="flex-center" aria-label="newsletter">
 									<i class="ph ph-paper-plane-tilt text-white"></i>
 								</button>
+							</div>
+							<div class="mt-12">
+								<div class="caption2 text-line">
+									This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of
+									Service apply.
+								</div>
 							</div>
 						</div>
 					</div>
