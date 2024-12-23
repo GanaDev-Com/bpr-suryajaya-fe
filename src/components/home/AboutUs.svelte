@@ -1,8 +1,8 @@
-<div class="payment-gateway-one bg-surface">
+<div class="payment-gateway-one service-block bg-surface">
 	<div class="bg-img">
 		<img class="w-100 h-100" src="assets/images/component/gateway1.png" alt="" />
 	</div>
-	<div class="container">
+	<div class="container list-service">
 		<div class="row">
 			<div class="col-12 col-xl-6">
 				<div class="payment-infor flex-columns-between">

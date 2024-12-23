@@ -1,5 +1,5 @@
-<div class="about-home-five mt-100">
-	<div class="container">
+<div class="about-home-five service-block mt-100">
+	<div class="container list-service">
 		<div class="row flex-between row-gap-32">
 			<div class="col-12 col-lg-7">
 				<div class="text-about">

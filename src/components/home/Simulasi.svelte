@@ -1,5 +1,5 @@
-<div class="financial-assessment-block pt-80 bg-white">
-	<div class="container">
+<div class="financial-assessment-block service-block pt-80 bg-white">
+	<div class="container list-service">
 		<div class="row flex-item-center">
 			<div class="col-12 col-xl-5 col-lg-5">
 				<div class="bg-img w-100 overflow-hidden bora-20">

@@ -1,6 +1,6 @@
-<div class="partner-five-col style-one mt-100 bg-blue">
+<div class="partner-five-col service-block style-one mt-100 bg-blue">
 	<div class="cta-three">
-		<div class="container">
+		<div class="container list-service">
 			<div class="row flex-columns-center">
 				<div class="col-lg-7 col-md-8 col-11 text-center text-white pt-80">
 					<div class="heading4">PT. BPR Suryajaya Kubutambahan</div>
