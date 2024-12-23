@@ -54,53 +54,53 @@
 					<div class="col-6">
 						<div class="footer-navigate flex-center gap-80">
 							<div class="footer-nav-item">
-								<div class="item-heading text-button-small text-white">Quick Links</div>
+								<div class="item-heading text-button-small text-white">Tautan Penting</div>
 								<ul class="list-nav mt-4">
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">About us</a>
+										<a class="caption1 text-line hover-underline" href="#!">Laporan Tahunan</a>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Services</a>
+										<a class="caption1 text-line hover-underline" href="#!">Laporan Tata Kelola</a>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Case Studies</a>
+										<a class="caption1 text-line hover-underline" href="#!">Laporan Publikasi</a>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Contact</a>
+										<a class="caption1 text-line hover-underline" href="#!">Bantuan</a>
 									</li>
 								</ul>
 							</div>
 							<div class="footer-nav-item">
-								<div class="item-heading text-button-small text-white">Pages</div>
+								<div class="item-heading text-button-small text-white">Halaman</div>
 								<ul class="list-nav mt-4">
+									<li class="mt-12">
+										<a class="caption1 text-line hover-underline" href="#!">Kenali Lebih Dekat</a>
+									</li>
+									<li class="mt-12">
+										<a class="caption1 text-line hover-underline" href="#!">Produk Kredit</a>
+									</li>
+									<li class="mt-12">
+										<a class="caption1 text-line hover-underline" href="#!">Produk Tabungan</a>
+									</li>
+									<li class="mt-12">
+										<a class="caption1 text-line hover-underline" href="#!">Produk Deposito</a>
+									</li>
+								</ul>
+							</div>
+							<div class="footer-nav-item">
+								<div class="item-heading text-button-small text-white">Tautan Lainnya</div>
+								<ul class="list-nav mt-4">
+									<li class="mt-12">
+										<a class="caption1 text-line hover-underline" href="#!">Lapor Via WhatsApp</a>
+									</li>
+									<li class="mt-12">
+										<a class="caption1 text-line hover-underline" href="#!">Lapor Aduan</a>
+									</li>
+									<li class="mt-12">
+										<a class="caption1 text-line hover-underline" href="#!">Karir</a>
+									</li>
 									<li class="mt-12">
 										<a class="caption1 text-line hover-underline" href="#!">FAQs</a>
-									</li>
-									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Pricing</a>
-									</li>
-									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Partners</a>
-									</li>
-									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Support Center</a>
-									</li>
-								</ul>
-							</div>
-							<div class="footer-nav-item">
-								<div class="item-heading text-button-small text-white">Blog</div>
-								<ul class="list-nav mt-4">
-									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Blog List</a>
-									</li>
-									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Blog Grid</a>
-									</li>
-									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Masonry</a>
-									</li>
-									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Blog Detail</a>
 									</li>
 								</ul>
 							</div>
@@ -108,7 +108,7 @@
 					</div>
 					<div class="col-3">
 						<div class="company-contact">
-							<div class="heading text-button-small text-white">Newsletter</div>
+							<div class="heading text-button-small text-white">Berlangganan</div>
 							<div class="send-block mt-20 flex-item-center">
 								<input
 									class="caption1 text-secondary"
@@ -130,11 +130,13 @@
 						</div>
 					</div>
 					<div class="nav-link flex-item-center gap-10">
-						<a class="text-line caption1 hover-underline" href="#!">Terms Of Services</a><span
+						<a class="text-line caption1 hover-underline" href="#!">Syarat dan Ketentuan</a><span
 							class="text-line caption1">|</span
-						><a class="text-line caption1 hover-underline" href="#!">Privacy Policy</a><span
+						><a class="text-line caption1 hover-underline" href="#!">Kebijakan Privasi</a><span
 							class="text-line caption1">|</span
-						><a class="text-line caption1 hover-underline" href="#!">Cookie Policy</a>
+						><a class="text-line caption1 hover-underline" href="#!">Kebijakan Cookie</a><span
+							class="text-line caption1">|</span
+						><a class="text-line caption1 hover-underline" href="#!">Sitemap</a>
 					</div>
 				</div>
 			</div>
