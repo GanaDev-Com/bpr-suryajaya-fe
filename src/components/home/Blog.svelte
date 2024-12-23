@@ -3,7 +3,7 @@
 		<div class="heading4 text-center">Berita dan Pengumuman Terbaru</div>
 		<div class="row row-gap-32 mt-40">
 			<div class="blog-item col-12 col-xl-4 col-sm-6" data-name="">
-				<a class="blog-item-main" href="blog-detail-two.html">
+				<a class="blog-item-main" href="#!">
 					<div class="bg-img w-100 overflow-hidden mb-minus-1">
 						<img
 							class="w-100 h-100 display-block"
@@ -13,16 +13,16 @@
 					</div>
 					<div class="infor bg-white p-24">
 						<div class="caption2 pt-4 pb-4 pl-12 pr-12 bg-surface bora-40 display-inline-block">
-							Makerting
+							Marketing
 						</div>
-						<div class="heading6 mt-8">CI Financial sells RIA stake in new expansion strategy</div>
+						<div class="heading6 mt-8">Cara Praktis Antir Ribet Bayar Angsuran</div>
 						<div class="date flex-item-center gap-16 mt-8">
 							<div class="author caption2 text-secondary">
-								by <span class="text-on-surface">Avitex</span>
+								oleh <span class="text-on-surface">Yunita</span>
 							</div>
 							<div class="item-date flex-item-center">
 								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>1 days ago</span
+									>1 hari lalu</span
 								>
 							</div>
 						</div>
@@ -30,7 +30,7 @@
 				>
 			</div>
 			<div class="blog-item col-12 col-xl-4 col-sm-6" data-name="">
-				<a class="blog-item-main" href="blog-detail-two.html">
+				<a class="blog-item-main" href="#!">
 					<div class="bg-img w-100 overflow-hidden mb-minus-1">
 						<img
 							class="w-100 h-100 display-block"
@@ -40,18 +40,16 @@
 					</div>
 					<div class="infor bg-white p-24">
 						<div class="caption2 pt-4 pb-4 pl-12 pr-12 bg-surface bora-40 display-inline-block">
-							Development
+							Security
 						</div>
-						<div class="heading6 mt-8">
-							Barred financial advisors charged in $72 million criminal
-						</div>
+						<div class="heading6 mt-8">Tips Keamanan Transaksi Menghindari Dari ....</div>
 						<div class="date flex-item-center gap-16 mt-8">
 							<div class="author caption2 text-secondary">
-								by <span class="text-on-surface">Avitex</span>
+								oleh <span class="text-on-surface">Avitex</span>
 							</div>
 							<div class="item-date flex-item-center">
 								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>2 days ago</span
+									>2 hari lalu</span
 								>
 							</div>
 						</div>
@@ -59,7 +57,7 @@
 				>
 			</div>
 			<div class="blog-item col-12 col-xl-4 col-sm-6" data-name="">
-				<a class="blog-item-main" href="blog-detail-two.html">
+				<a class="blog-item-main" href="#!">
 					<div class="bg-img w-100 overflow-hidden mb-minus-1">
 						<img
 							class="w-100 h-100 display-block"
@@ -69,16 +67,16 @@
 					</div>
 					<div class="infor bg-white p-24">
 						<div class="caption2 pt-4 pb-4 pl-12 pr-12 bg-surface bora-40 display-inline-block">
-							Design
+							Marketing
 						</div>
-						<div class="heading6 mt-8">Retirement Planning Strategies</div>
+						<div class="heading6 mt-8">Promo Kredit Bulan Desember 2024, Yuk buruan...</div>
 						<div class="date flex-item-center gap-16 mt-8">
 							<div class="author caption2 text-secondary">
-								by <span class="text-on-surface">Avitex</span>
+								oleh <span class="text-on-surface">Avitex</span>
 							</div>
 							<div class="item-date flex-item-center">
 								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>2 days ago</span
+									>2 hari lalu</span
 								>
 							</div>
 						</div>
@@ -86,7 +84,7 @@
 				>
 			</div>
 			<div class="blog-item col-12 col-xl-4 col-sm-6 display-none col-lg-show" data-name="">
-				<a class="blog-item-main" href="blog-detail-two.html">
+				<a class="blog-item-main" href="#!">
 					<div class="bg-img w-100 overflow-hidden mb-minus-1">
 						<img
 							class="w-100 h-100 display-block"

@@ -3,7 +3,7 @@
 		<div class="container">
 			<div class="row flex-columns-center">
 				<div class="col-lg-7 col-md-8 col-11 text-center text-white pt-80">
-					<div class="heading4">PT BPR Suryajaya Kubutambahan</div>
+					<div class="heading4">PT. BPR Suryajaya Kubutambahan</div>
 					<p>
 						Berizin dan di awasi oleh Otoritas Jasa Keuangan ( OJK ) serta merupakan Bank peserta
 						penjaminan Lembaga Penjamin Simpanan (LPS)

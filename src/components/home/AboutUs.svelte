@@ -7,11 +7,11 @@
 			<div class="col-12 col-xl-6">
 				<div class="payment-infor flex-columns-between">
 					<div class="text">
-						<div class="heading4">PT BPR Suryajaya Kubutambahan</div>
+						<div class="heading4">PT. BPR Suryajaya Kubutambahan</div>
 						<div class="body3 text-secondary mt-24 text-justify">
 							Didirikan berdasarkan Akta Nomor 26 oleh Notaris I Putu Candra SH ,setelah mengalami
 							beberapa perubahan sesuai dengan Atka Nomor 132 Tanggal 21 Maret 1991 tentang
-							perubahan nama dari PT BPR SABDA UTAMI menjadi PT BPR SURYAJAYA KUBUTAMBAHAN sesuai
+							perubahan nama dari <strong>PT BPR SABDA UTAMI</strong> menjadi <strong>PT. BPR SURYAJAYA KUBUTAMBAHAN</strong> sesuai
 							dan dengan akta No.35 tanggal 10 Februari 2010 yang di buat oleh Notaris I Putu Candra
 							SH telah diterima dan di catat di Database Sistem Administrasi Badan Hukum dan Hak
 							asasi manusia Republik indonsia Nomor : C2.2293.HT.01.01 th 1991.

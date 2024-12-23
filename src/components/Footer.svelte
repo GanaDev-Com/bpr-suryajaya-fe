@@ -57,20 +57,20 @@
 								<div class="item-heading text-button-small text-white">Quick Links</div>
 								<ul class="list-nav mt-4">
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="about-one.html">About us</a>
+										<a class="caption1 text-line hover-underline" href="#!">About us</a>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="service-one.html"
+										<a class="caption1 text-line hover-underline" href="#!"
 											>Services</a
 										>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="case-studies-one.html"
+										<a class="caption1 text-line hover-underline" href="#!"
 											>Case Studies</a
 										>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="contact-two.html">Contact</a
+										<a class="caption1 text-line hover-underline" href="#!">Contact</a
 										>
 									</li>
 								</ul>
@@ -79,16 +79,16 @@
 								<div class="item-heading text-button-small text-white">Pages</div>
 								<ul class="list-nav mt-4">
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="faqs.html">FAQs</a>
+										<a class="caption1 text-line hover-underline" href="#!">FAQs</a>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="pricing.html">Pricing</a>
+										<a class="caption1 text-line hover-underline" href="#!">Pricing</a>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="partners.html">Partners</a>
+										<a class="caption1 text-line hover-underline" href="#!">Partners</a>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="contact-two.html"
+										<a class="caption1 text-line hover-underline" href="#!"
 											>Support Center</a
 										>
 									</li>
@@ -98,21 +98,21 @@
 								<div class="item-heading text-button-small text-white">Blog</div>
 								<ul class="list-nav mt-4">
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="blog-list-one.html"
+										<a class="caption1 text-line hover-underline" href="#!"
 											>Blog List</a
 										>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="blog-grid.html">Blog Grid</a
+										<a class="caption1 text-line hover-underline" href="#!">Blog Grid</a
 										>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="blog-masonry.html"
+										<a class="caption1 text-line hover-underline" href="#!"
 											>Masonry</a
 										>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="blog-detail-one.html"
+										<a class="caption1 text-line hover-underline" href="#!"
 											>Blog Detail</a
 										>
 									</li>

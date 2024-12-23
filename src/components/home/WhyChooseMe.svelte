@@ -7,9 +7,9 @@
 						Mengapa Memilih <b>BPR Suryajaya Kubutambahan</b>
 					</div>
 					<div class="body3 text-secondary mt-20">
-						PT. BPR Suryajaya Kubutambahan menawarkan berbagai produk perbankan yang dirancang untuk
-						memenuhi kebutuhan keuangan Anda, baik untuk pribadi maupun usaha. Dengan lebih dari 30
-						tahun pengalaman, kami berkomitmen untuk menyediakan layanan terbaik dan memberikan
+						<strong>PT. BPR Suryajaya Kubutambahan</strong> menawarkan berbagai produk perbankan yang
+						dirancang untuk memenuhi kebutuhan keuangan Anda, baik untuk pribadi maupun usaha. Dengan
+						lebih dari 30 tahun pengalaman, kami berkomitmen untuk menyediakan layanan terbaik dan memberikan
 						solusi finansial yang fleksibel dan terpercaya.
 					</div>
 					<div class="list mt-40">
