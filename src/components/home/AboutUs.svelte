@@ -7,7 +7,7 @@
 			<div class="col-12 col-xl-6">
 				<div class="payment-infor flex-columns-between">
 					<div class="text">
-						<div class="heading3">PT BPR Suryajaya Kubutambahan</div>
+						<div class="heading4">PT BPR Suryajaya Kubutambahan</div>
 						<div class="body3 text-secondary mt-24 text-justify">
 							Didirikan berdasarkan Akta Nomor 26 oleh Notaris I Putu Candra SH ,setelah mengalami
 							beberapa perubahan sesuai dengan Atka Nomor 132 Tanggal 21 Maret 1991 tentang

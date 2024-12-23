@@ -24,18 +24,7 @@
 							values, and achievements as we empower clients for a secure financial future.
 						</div>
 						<div class="more-infor mt-24">
-							<div class="infor flex-item-center gap-12">
-								<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
-								<div class="text-button">Identification of monthly income</div>
-							</div>
-							<div class="infor flex-item-center gap-12 mt-12">
-								<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
-								<div class="text-button">Creation of savings and investment plan</div>
-							</div>
-							<div class="infor flex-item-center gap-12 mt-12">
-								<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
-								<div class="text-button">Management and calculation of monthly expenses</div>
-							</div>
+							
 						</div>
 					</div>
 					<div class="description item-filter hide" data-name="mission">
@@ -44,18 +33,7 @@
 							empower our clients to achieve their financial goals and secure their future.
 						</div>
 						<div class="more-infor mt-24">
-							<div class="infor flex-item-center gap-12">
-								<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
-								<div class="text-button">Management and calculation of monthly expenses</div>
-							</div>
-							<div class="infor flex-item-center gap-12 mt-12">
-								<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
-								<div class="text-button">Identification of monthly income</div>
-							</div>
-							<div class="infor flex-item-center gap-12 mt-12">
-								<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
-								<div class="text-button">Creation of savings and investment plan</div>
-							</div>
+							
 						</div>
 					</div>
 					<div class="description item-filter hide" data-name="vision">
@@ -65,30 +43,9 @@
 							prosperous future.
 						</div>
 						<div class="more-infor mt-24">
-							<div class="infor flex-item-center gap-12">
-								<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
-								<div class="text-button">Creation of savings and investment plan</div>
-							</div>
-							<div class="infor flex-item-center gap-12 mt-12">
-								<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
-								<div class="text-button">Management and calculation of monthly expenses</div>
-							</div>
-							<div class="infor flex-item-center gap-12 mt-12">
-								<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
-								<div class="text-button">Identification of monthly income</div>
-							</div>
+							
 						</div>
 					</div>
-				</div>
-				<div class="button-block flex-item-center gap-20 ml-40 mt-40 pb-8">
-					<a
-						class="button-share text-white bg-blue hover-button-black text-button pt-14 pb-14 pl-36 pr-36 bora-48"
-						href="contact-two.html">Get started</a
-					><a
-						class="button-share text-on-surface hover-button-black bg-white text-button pt-12 pb-12 pl-36 pr-36 bora-48 border-blue-2px flex-item-center gap-8"
-						href="contact-two.html"
-						><i class="ph ph-phone fs-20"></i><span>(00) 123 456 789</span></a
-					>
 				</div>
 			</div>
 		</div>

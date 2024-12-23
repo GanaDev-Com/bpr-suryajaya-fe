@@ -33,10 +33,11 @@
 <Simulasi />
 <!-- End Simulasi -->
 
+<!-- Slider Here -->
+<Slider />
+<!-- End Slider -->
+
 <!-- Blog Here -->
 <Blog />
 <!-- End Blog -->
 
-<!-- Slider Here -->
-<Slider />
-<!-- End Slider -->

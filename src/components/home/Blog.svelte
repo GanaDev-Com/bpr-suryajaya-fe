@@ -1,6 +1,6 @@
-<div class="blog-list style-one mt-100">
+<div class="blog-list style-one mt-100 pb-80">
 	<div class="container">
-		<div class="heading3 text-center">Latest News</div>
+		<div class="heading4 text-center">Berita dan Pengumuman Terbaru</div>
 		<div class="row row-gap-32 mt-40">
 			<div class="blog-item col-12 col-xl-4 col-sm-6" data-name="">
 				<a class="blog-item-main" href="blog-detail-two.html">
