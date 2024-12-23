@@ -6,11 +6,16 @@
 	import Blog from '../components/home/Blog.svelte';
 	import Slider from '../components/home/Slider.svelte';
 	import Simulasi from '../components/home/Simulasi.svelte';
+	import AboutUs from '../components/home/AboutUs.svelte';
 </script>
 
 <!-- Header Here -->
 <Header />
 <!-- End Header -->
+
+<!-- About Us Here -->
+<AboutUs />
+<!-- End About Us -->
 
 <!-- Product Here -->
 <Product />

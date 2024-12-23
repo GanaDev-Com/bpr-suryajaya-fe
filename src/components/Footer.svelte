@@ -14,8 +14,8 @@
 						<div class="footer-company-infor flex-columns-between gap-20">
 							<img class="footer-logo" src="assets/images/logo-white.png" alt="Logo" />
 							<div class="text caption1 text-white">
-								We are a diversified company specialized in providing comprehensive financial
-								solutions for individuals and businesses.
+								BPR Suryajaya Kubutambahan, solusi keuangan terpercaya untuk kebutuhan pribadi dan
+								usaha Anda.
 							</div>
 							<div class="list-social flex-item-center gap-10 style-one">
 								<a
