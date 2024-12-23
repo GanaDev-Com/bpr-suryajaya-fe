@@ -13,21 +13,21 @@
 			</div>
 			<div class="container">
 				<div class="text-content flex-columns-between">
-					<div class="heading2 animate__animated animate__fadeInUp animate__delay-0-2s">
-						Simplify and Secure <br />Your Payments with <br /><span class="text-blue w-350"
-							>Our Solution</span
-						>
+					<div class="heading3 animate__animated animate__fadeInUp animate__delay-0-2s">
+						Solusi Keuangan <span class="text-blue w-350">Terpercaya</span><br />
+						Selalu <span class="text-blue w-350">Dekat di Hati</span> Anda
 					</div>
 					<div
 						class="body2 mt-12 text-secondary animate__animated animate__fadeInUp animate__delay-0-5s"
 					>
-						Our platform offers secure and reliable investment
-						<br />opportunities in the rapidly growing world of cryptocurrency.
+						BPR Suryajaya Kubutambahan siap memberikan layanan<br />
+						keuangan yang aman, mudah, dan terpercaya<br />
+						untuk mendukung kesuksesan Anda.
 					</div>
 					<div class="button-block mt-40 animate__animated animate__fadeInUp animate__delay-0-8s">
 						<a
 							class="button-share display-inline-block hover-button-black border-none bg-blue text-white text-button pl-28 pr-28 pt-12 pb-12 bora-8"
-							href="service-one.html">Discovery now</a
+							href="service-one.html">Pelajari Layanan Kami</a
 						>
 					</div>
 				</div>
@@ -39,19 +39,18 @@
 			</div>
 			<div class="container">
 				<div class="text-content flex-columns-between">
-					<div class="heading2">
-						Empower Your <br />Business with <br /><span class="text-blue w-100"
-							>Seamless Payments</span
-						>
+					<div class="heading3">
+						Jaga Keamanan Transaksi Anda <br /> Pelajari
+						<span class="text-blue w-100">Edukasi bertransaksi</span>
 					</div>
 					<div class="body2 mt-12 text-secondary">
-						Our platform offers secure and reliable investment
-						<br />opportunities in the rapidly growing world of cryptocurrency.
+						BPR Suryajaya berkomitmen guna memastikan seluruh transaksi Anda aman. <br />Pastikan
+						transaksi anda aman dengan mengikuti beberapa tips yang sudah kami rangkum.
 					</div>
 					<div class="button-block mt-40">
 						<a
 							class="button-share display-inline-block hover-button-black border-none bg-blue text-white text-button pl-28 pr-28 pt-12 pb-12 bora-8"
-							href="service-one.html">Discovery now</a
+							href="service-one.html">Pelajari Edukasi Bertransaksi</a
 						>
 					</div>
 				</div>
@@ -63,19 +62,19 @@
 			</div>
 			<div class="container">
 				<div class="text-content flex-columns-between">
-					<div class="heading2">
-						Powerful Payment <br />Solutions for <br /><span class="text-blue w-100"
-							>Seamless Transactions</span
-						>
+					<div class="heading3">
+						Mewujudkan <span class="text-blue w-100">Impian Anda</span><br />
+						Dengan Produk Keuangan<span class="text-blue w-100"> Terpercaya</span>
 					</div>
 					<div class="body2 mt-12 text-secondary">
-						Trust us to help you navigate the complex landscape and
-						<br />achieve your financial goals with peace of mind.
+						Produk kami dari tabungan hingga deposito, dirancang untuk membantu Anda <br />
+						mencapai tujuan keuangan yang lebih baik. Mulailah perjalanan keuangan Anda bersama
+						<br /> BPR Suryajaya Kubutambahan.
 					</div>
 					<div class="button-block mt-40">
 						<a
 							class="button-share display-inline-block hover-button-black border-none bg-blue text-white text-button pl-28 pr-28 pt-12 pb-12 bora-8"
-							href="service-one.html">Discovery now</a
+							href="service-one.html">Kontak Layanan Pelanggan</a
 						>
 					</div>
 				</div>

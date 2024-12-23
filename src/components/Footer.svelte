@@ -1,3 +1,10 @@
+<script lang="ts">
+	export let appName: string;
+
+	const date = new Date();
+	const year = date.getFullYear();
+</script>
+
 <div id="footer">
 	<div class="style-one">
 		<div class="footer-block bg-dark pt-60">
@@ -16,22 +23,26 @@
 									class="item bora-50 w-28 h-28 border-grey-2px flex-center"
 									href="https://www.facebook.com/"
 									target="_blank"><i class="icon-facebook fs-12"></i></a
-								><a
+								>
+								<!-- <a
 									aria-label="icon linkedin"
 									class="item bora-50 w-28 h-28 border-grey-2px flex-center"
 									href="https://www.linkedin.com/"
 									target="_blank"><i class="icon-in fs-12"></i></a
-								><a
+								>
+								<a
 									aria-label="icon twitter"
 									class="item bora-50 w-28 h-28 border-grey-2px flex-center"
 									href="https://www.twitter.com/"
 									target="_blank"><i class="icon-twitter fs-10"></i></a
-								><a
+								> -->
+								<a
 									aria-label="icon instagram"
 									class="item bora-50 w-28 h-28 border-grey-2px flex-center"
 									href="https://www.instagram.com/"
 									target="_blank"><i class="icon-insta fs-10"></i></a
-								><a
+								>
+								<a
 									aria-label="icon youtube"
 									class="item bora-50 w-28 h-28 border-grey-2px flex-center"
 									href="https://www.youtube.com/"
@@ -128,7 +139,9 @@
 				<div class="border-line"></div>
 				<div class="footer-bottom flex-between pt-12 pb-12">
 					<div class="left-block flex-item-center">
-						<div class="copy-right text-line caption1">©2023 Finatex. All Rights Reserved.</div>
+						<div class="copy-right text-line caption1">
+							© {year + ' ' + appName}. All Rights Reserved.
+						</div>
 					</div>
 					<div class="nav-link flex-item-center gap-10">
 						<a class="text-line caption1 hover-underline" href="#!">Terms Of Services</a><span
