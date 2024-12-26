@@ -15,7 +15,8 @@
 							<strong>PT. BPR SURYAJAYA KUBUTAMBAHAN</strong> sesuai dan dengan akta No.35 tanggal 10
 							Februari 2010 yang di buat oleh Notaris I Putu Candra SH telah diterima dan di catat di
 							Database Sistem Administrasi Badan Hukum dan Hak asasi manusia Republik indonsia Nomor
-							: C2.2293.HT.01.01 th 1991.
+							: C2.2293.HT.01.01 th 1991. Perubahan terakhir berdasarkan akta Nomor: 12 Tertanggal 10
+							Juni 2024 menjadi Bank Perekonomian Rakyat.
 						</div>
 					</div>
 					<div class="button-block flex-item-center gap-24">

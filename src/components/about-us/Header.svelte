@@ -4,16 +4,15 @@
 	</div>
 	<div class="container">
 		<div class="heading-nav gap-4 mt-32">
-			<a class="hover-underline caption1 text-white" href="index-2.html">Home</a><i
+			<a class="hover-underline caption1 text-white" href="index-2.html">Beranda</a><i
 				class="ph ph-caret-double-right text-white"
 			></i>
-			<div class="caption1 text-white">About Us</div>
+			<div class="caption1 text-white">Kenali Lebih Dekat</div>
 		</div>
 		<div class="text-nav">
-			<div class="heading3 text-white">About Us</div>
+			<div class="heading3 text-white">#SemakinDekatdiHati</div>
 			<div class="sub-heading mt-8 text-white fw-400">
-				We perform a full analysis of the client’s website and collect information about all the
-				competitors to formulate a proper strategy.
+				Berkomitmen untuk memberikan solusi finansial yang fleksibel dan terpercaya
 			</div>
 		</div>
 	</div>
