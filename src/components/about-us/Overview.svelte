@@ -1,99 +1,33 @@
-<div class="financial-assessment-block pt-100 pb-100 bg-white">
+<div class="bottom-slider-three mt-100">
 	<div class="container">
-		<div class="row flex-item-center">
-			<div class="col-12 col-xl-6 col-lg-12">
-				<div class="bg-img w-100 overflow-hidden bora-20">
-					<img
-						class="w-100 h-100 hover-scale display-block bora-20"
-						src="assets/images/component/assessment.png"
-						alt=""
-					/>
+		<div class="row row-gap-32 column-reverse-xl">
+			<div class="col-12 col-xl-6 flex-columns-between row-gap-20 pr-40">
+				<div class="heading4">PT. BPR Suryajaya Kubutambahan</div>
+				<div class="body3 text-secondary text-justify">
+					Didirikan berdasarkan Akta Nomor 26 oleh Notaris I Putu Candra SH ,setelah mengalami
+					beberapa perubahan sesuai dengan Atka Nomor 132 Tanggal 21 Maret 1991 tentang perubahan
+					nama dari <strong>PT BPR SABDA UTAMI</strong> menjadi
+					<strong>PT. BPR SURYAJAYA KUBUTAMBAHAN</strong> sesuai dan dengan akta No.35 tanggal 10 Februari
+					2010 yang di buat oleh Notaris I Putu Candra SH telah diterima dan di catat di Database Sistem
+					Administrasi Badan Hukum dan Hak asasi manusia Republik indonsia Nomor : C2.2293.HT.01.01 th
+					1991.
+				</div>
+				<div class="body3 text-secondary text-justify">
+					Perubahan terakhir berdasarkan akta Nomor: 12 Tertanggal 10 Juni 2024 menjadi Bank
+					Perekonomian Rakyat. Sehingga sejak 10 Juni 2024 BPR Suryajaya Kubutambahan telah resmi
+					berganti nama menjadi
+					<strong>BANK PEREKONOMIAN RAKYAT SURYAJAYA KUBUTAMBAHAN</strong>
 				</div>
 			</div>
-			<div class="col-12 col-xl-6 col-lg-12 flex-column">
-				<div class="heading3 ml-40">company overview</div>
-				<div class="nav-infor ml-40 mt-40">
-					<div class="list-nav flex-item-center gap-40">
-						<div class="nav-item active" data-name="about-us">About Us</div>
-						<div class="nav-item" data-name="mission">Mission</div>
-						<div class="nav-item" data-name="vision">Vision</div>
-					</div>
-					<div class="description item-filter" data-name="about-us">
-						<div class="title body3 text-secondary mt-16">
-							We're a devoted team providing premium financial solutions. Explore our mission,
-							values, and achievements as we empower clients for a secure financial future.
-						</div>
-						<div class="more-infor mt-24">
-							<div class="infor flex-item-center gap-12">
-								<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
-								<div class="text-button">Identification of monthly income</div>
-							</div>
-							<div class="infor flex-item-center gap-12 mt-12">
-								<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
-								<div class="text-button">Creation of savings and investment plan</div>
-							</div>
-							<div class="infor flex-item-center gap-12 mt-12">
-								<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
-								<div class="text-button">Management and calculation of monthly expenses</div>
-							</div>
-						</div>
-					</div>
-					<div class="description item-filter hide" data-name="mission">
-						<div class="title body3 text-secondary mt-16">
-							Our mission is to provide comprehensive and personalized financial solutions that
-							empower our clients to achieve their financial goals and secure their future.
-						</div>
-						<div class="more-infor mt-24">
-							<div class="infor flex-item-center gap-12">
-								<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
-								<div class="text-button">Management and calculation of monthly expenses</div>
-							</div>
-							<div class="infor flex-item-center gap-12 mt-12">
-								<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
-								<div class="text-button">Identification of monthly income</div>
-							</div>
-							<div class="infor flex-item-center gap-12 mt-12">
-								<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
-								<div class="text-button">Creation of savings and investment plan</div>
-							</div>
-						</div>
-					</div>
-					<div class="description item-filter hide" data-name="vision">
-						<div class="title body3 text-secondary mt-16">
-							Our unwavering vision is to be the most trusted and preferred partner in achieving
-							financial success, diligently guiding our valued clients toward a secure and
-							prosperous future.
-						</div>
-						<div class="more-infor mt-24">
-							<div class="infor flex-item-center gap-12">
-								<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
-								<div class="text-button">Creation of savings and investment plan</div>
-							</div>
-							<div class="infor flex-item-center gap-12 mt-12">
-								<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
-								<div class="text-button">Management and calculation of monthly expenses</div>
-							</div>
-							<div class="infor flex-item-center gap-12 mt-12">
-								<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
-								<div class="text-button">Identification of monthly income</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="button-block flex-item-center gap-20 ml-40 mt-40 pb-8">
-					<a
-						class="button-share text-white bg-blue hover-button-black text-button pt-14 pb-14 pl-36 pr-36 bora-48"
-						href="contact-two.html">Get started</a
-					><a
-						class="button-share text-on-surface hover-button-black bg-white text-button pt-12 pb-12 pl-36 pr-36 bora-48 border-blue-2px flex-item-center gap-8"
-						href="contact-two.html"
-						><i class="ph ph-phone fs-20"></i><span>(00) 123 456 789</span></a
-					>
+			<div class="col-12 col-xl-6">
+				<div class="bg-img w-100 overflow-hidden bora-20">
+					<img
+						class="w-100 h-100 hover-scale display-block"
+						src="assets/images/component/bottom-slider-three.png"
+						alt=""
+					/>
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
-
-
-

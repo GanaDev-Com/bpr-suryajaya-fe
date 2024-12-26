@@ -6,6 +6,7 @@
 				<a class="blog-item-main" href="#!">
 					<div class="bg-img w-100 overflow-hidden mb-minus-1">
 						<img
+							loading="lazy"
 							class="w-100 h-100 display-block"
 							src="assets/images/blog/item11.png"
 							alt="CI Financial sells RIA stake in new expansion strategy"
@@ -33,6 +34,7 @@
 				<a class="blog-item-main" href="#!">
 					<div class="bg-img w-100 overflow-hidden mb-minus-1">
 						<img
+							loading="lazy"
 							class="w-100 h-100 display-block"
 							src="assets/images/blog/item13.png"
 							alt="Barred financial advisors charged in $72 million criminal"
@@ -60,6 +62,7 @@
 				<a class="blog-item-main" href="#!">
 					<div class="bg-img w-100 overflow-hidden mb-minus-1">
 						<img
+							loading="lazy"
 							class="w-100 h-100 display-block"
 							src="assets/images/blog/item12.png"
 							alt="Retirement Planning Strategies"
@@ -87,6 +90,7 @@
 				<a class="blog-item-main" href="#!">
 					<div class="bg-img w-100 overflow-hidden mb-minus-1">
 						<img
+							loading="lazy"
 							class="w-100 h-100 display-block"
 							src="assets/images/blog/item10.png"
 							alt="Helping a local business"

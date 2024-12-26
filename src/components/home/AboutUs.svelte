@@ -1,6 +1,6 @@
 <div class="payment-gateway-one service-block bg-surface">
 	<div class="bg-img">
-		<img class="w-100 h-100" src="assets/images/component/gateway1.png" alt="" />
+		<img loading="lazy" class="w-100 h-100" src="assets/images/component/gateway1.png" alt="" />
 	</div>
 	<div class="container list-service">
 		<div class="row">
@@ -15,7 +15,8 @@
 							<strong>PT. BPR SURYAJAYA KUBUTAMBAHAN</strong> sesuai dan dengan akta No.35 tanggal 10
 							Februari 2010 yang di buat oleh Notaris I Putu Candra SH telah diterima dan di catat di
 							Database Sistem Administrasi Badan Hukum dan Hak asasi manusia Republik indonsia Nomor
-							: C2.2293.HT.01.01 th 1991.
+							: C2.2293.HT.01.01 th 1991. Perubahan terakhir berdasarkan akta Nomor: 12 Tertanggal 10
+							Juni 2024 menjadi Bank Perekonomian Rakyat.
 						</div>
 					</div>
 					<div class="button-block flex-item-center gap-24">
@@ -30,7 +31,7 @@
 							href="https://wa.me/6282339222539?text=Halo%20BPR%20Suryajaya%20Kubutambahan,%20Saya%20ingin%20berdiskusi%20terkait%20dengan%20produk%20yang%20ditawarkan"
 							><i class="ph ph-phone fs-20"></i><span>(+62) 823-3922-2539</span></a
 						>
-						<img src="assets/images/component/gateway1-dot.png" alt="" />
+						<img loading="lazy" src="assets/images/component/gateway1-dot.png" alt="" />
 					</div>
 				</div>
 			</div>
