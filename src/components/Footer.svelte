@@ -15,7 +15,7 @@
 							<img
 								loading="lazy"
 								class="footer-logo"
-								src="assets/images/logo-white.png"
+								src="/assets/images/logo-white.png"
 								alt="Logo"
 							/>
 							<div class="text caption1 text-white">

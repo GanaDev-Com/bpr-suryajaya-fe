@@ -12,7 +12,7 @@
 				<img
 					loading="lazy"
 					class="menu-logo display-block"
-					src="assets/images/logo-default.png"
+					src="/assets/images/logo-default.png"
 					alt="logo"
 				/>
 			</a>
@@ -25,13 +25,13 @@
 						<a class="nav-link" href="#!">Produk Kami <i class="ph ph-caret-down fs-14"></i></a>
 						<ul class="sub-nav hidden">
 							<li class="sub-nav-item">
-								<a class="sub-nav-link" href="#!">Kredit</a>
+								<a class="sub-nav-link" href="/product/kredit">Kredit</a>
 							</li>
 							<li class="sub-nav-item">
-								<a class="sub-nav-link" href="#!">Tabungan</a>
+								<a class="sub-nav-link" href="/product/tabungan">Tabungan</a>
 							</li>
 							<li class="sub-nav-item">
-								<a class="sub-nav-link" href="#!">Deposito</a>
+								<a class="sub-nav-link" href="/product/deposito">Deposito</a>
 							</li>
 						</ul>
 					</li>
@@ -81,13 +81,13 @@
 							>
 							<ul class="sub-nav-mobile">
 								<li class="sub-nav-item pl-12 pr-12 pt-8 pb-8">
-									<a class="sub-nav-link fs-14" href="#!">Kredit</a>
+									<a class="sub-nav-link fs-14" href="/product/kredit">Kredit</a>
 								</li>
 								<li class="sub-nav-item pl-12 pr-12 pt-8 pb-8">
-									<a class="sub-nav-link fs-14" href="#!">Tabungan</a>
+									<a class="sub-nav-link fs-14" href="/product/tabungan">Tabungan</a>
 								</li>
 								<li class="sub-nav-item pl-12 pr-12 pt-8 pb-8">
-									<a class="sub-nav-link fs-14" href="#!">Deposito</a>
+									<a class="sub-nav-link fs-14" href="/product/deposito">Deposito</a>
 								</li>
 							</ul>
 						</li>

@@ -1,6 +1,6 @@
 <div class="slider-sub">
 	<div class="bg-img">
-		<img loading="lazy" src="assets/images/banner/about1.png" alt="banner" />
+		<img loading="lazy" src="/assets/images/banner/about1.png" alt="banner" />
 	</div>
 	<div class="container">
 		<div class="heading-nav gap-4 mt-32">

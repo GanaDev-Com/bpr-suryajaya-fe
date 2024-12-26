@@ -9,7 +9,7 @@
 					<img
 						loading="lazy"
 						class="w-100 h-100 display-block"
-						src="assets/images/member/direktur-utama.jpg"
+						src="/assets/images/member/direktur-utama.jpg"
 						alt=""
 					/>
 				</div>
@@ -23,7 +23,7 @@
 					<img
 						loading="lazy"
 						class="w-100 h-100 display-block"
-						src="assets/images/member/direktur.jpg"
+						src="/assets/images/member/direktur.jpg"
 						alt=""
 					/>
 				</div>

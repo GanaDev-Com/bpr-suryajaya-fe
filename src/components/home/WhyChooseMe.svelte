@@ -48,12 +48,12 @@
 			</div>
 			<div class="col-12 col-lg-5">
 				<div class="bg-img w-100">
-					<img loading="lazy" class="w-100" src="assets/images/component/about-home5.png" alt="" />
+					<img loading="lazy" class="w-100" src="/assets/images/component/about-home5.png" alt="" />
 				</div>
 				<div class="sub-img">
-					<img loading="lazy" src="assets/images/component/sub-about5-left.png" alt="" /><img
+					<img loading="lazy" src="/assets/images/component/sub-about5-left.png" alt="" /><img
 						loading="lazy"
-						src="assets/images/component/sub-about5.png"
+						src="/assets/images/component/sub-about5.png"
 						alt=""
 					/>
 				</div>
