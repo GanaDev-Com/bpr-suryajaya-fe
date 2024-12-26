@@ -6,7 +6,7 @@
 		<div class="list-member mt-40 row row-gap-32">
 			<div class="col-12 col-xl-3 col-lg-3 col-md-6 col-sm-6">
 				<div class="bg-img w-100">
-					<img class="w-100 h-100 display-block" src="assets/images/member/mem1.png" alt="" />
+					<img loading="lazy" class="w-100 h-100 display-block" src="assets/images/member/mem1.png" alt="" />
 					<div class="list-social bg-white">
 						<a href="http://facebook.com/" target="_blank" aria-label="icon">
 							<i class="icon-facebook fs-14"></i></a
@@ -26,7 +26,7 @@
 			</div>
 			<div class="col-12 col-xl-3 col-lg-3 col-md-6 col-sm-6">
 				<div class="bg-img w-100">
-					<img class="w-100 h-100 display-block" src="assets/images/member/mem2.png" alt="" />
+					<img loading="lazy" class="w-100 h-100 display-block" src="assets/images/member/mem2.png" alt="" />
 					<div class="list-social bg-white">
 						<a href="http://facebook.com/" target="_blank" aria-label="icon">
 							<i class="icon-facebook fs-14"></i></a
@@ -46,7 +46,7 @@
 			</div>
 			<div class="col-12 col-xl-3 col-lg-3 col-md-6 col-sm-6">
 				<div class="bg-img w-100">
-					<img class="w-100 h-100 display-block" src="assets/images/member/mem3.png" alt="" />
+					<img loading="lazy" class="w-100 h-100 display-block" src="assets/images/member/mem3.png" alt="" />
 					<div class="list-social bg-white">
 						<a href="http://facebook.com/" target="_blank" aria-label="icon">
 							<i class="icon-facebook fs-14"></i></a
@@ -66,7 +66,7 @@
 			</div>
 			<div class="col-12 col-xl-3 col-lg-3 col-md-6 col-sm-6">
 				<div class="bg-img w-100">
-					<img class="w-100 h-100 display-block" src="assets/images/member/mem4.png" alt="" />
+					<img loading="lazy" class="w-100 h-100 display-block" src="assets/images/member/mem4.png" alt="" />
 					<div class="list-social bg-white">
 						<a href="http://facebook.com/" target="_blank" aria-label="icon">
 							<i class="icon-facebook fs-14"></i></a

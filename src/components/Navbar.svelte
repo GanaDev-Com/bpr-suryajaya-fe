@@ -9,7 +9,7 @@
 	<div class="header-menu style-one bg-white">
 		<div class="container flex-between h-80">
 			<a class="menu-left-block" href="/">
-				<img class="menu-logo display-block" src="assets/images/logo-default.png" alt="logo" />
+				<img loading="lazy" class="menu-logo display-block" src="assets/images/logo-default.png" alt="logo" />
 			</a>
 			<div class="menu-center-block h-100">
 				<ul class="menu-nav flex-item-center h-100">
