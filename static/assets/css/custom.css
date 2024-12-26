@@ -114,3 +114,7 @@
 		height: 620px;
 	}
 }
+.header-menu .menu-center-block .nav-item.active a {
+	color: var(--blue);
+	padding-left: 20px;
+}

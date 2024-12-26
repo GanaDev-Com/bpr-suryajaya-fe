@@ -1,3 +1,10 @@
+<script lang="ts">
+	import { page } from '$app/stores';
+	import { derived } from 'svelte/store';
+
+	let activePage = derived(page, ($page) => $page.data.props.active || null);
+</script>
+
 <div id="header">
 	<div class="header-menu style-one bg-white">
 		<div class="container flex-between h-80">
@@ -6,8 +13,8 @@
 			</a>
 			<div class="menu-center-block h-100">
 				<ul class="menu-nav flex-item-center h-100">
-					<li class="nav-item h-100 flex-center home">
-						<a class="nav-link" href="#!">Kenali Lebih Dekat</a>
+					<li class="nav-item h-100 flex-center home {$activePage == 'about-us' ? 'active' : ''}">
+						<a class="nav-link" href="/about-us">Kenali Lebih Dekat</a>
 					</li>
 					<li class="nav-item h-100 flex-center about">
 						<a class="nav-link" href="#!">Produk Kami <i class="ph ph-caret-down fs-14"></i></a>
@@ -59,7 +66,7 @@
 				<div class="container">
 					<ul class="menu-nav-mobile h-100 pt-4 pb-4">
 						<li class="nav-item-mobile h-100 flex-column gap-8 pt-8 pb-8 pl-12 pr-12 pointer home">
-							<a class="fs-14 nav-link-mobile" href="#!"
+							<a class="fs-14 nav-link-mobile" href="/about-us"
 								>Kenali Lebih Dekat <i class="ph-fill ph-caret-down fs-12"></i></a
 							>
 						</li>

@@ -5,6 +5,7 @@
 	import Footer from '../components/Footer.svelte';
 	import type { LayoutData } from './$types';
 	import type { Snippet } from 'svelte';
+
 	let { data, children }: { data: LayoutData; children: Snippet } = $props();
 	let appName = data.props.appName;
 </script>
