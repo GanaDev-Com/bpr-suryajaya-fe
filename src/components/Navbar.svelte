@@ -5,7 +5,7 @@
 	let activePage = derived(page, ($page) => $page.data.props.active || null);
 </script>
 
-<div id="header">
+<div id="header" data-sveltekit-reload>
 	<div class="header-menu style-one bg-white">
 		<div class="container flex-between h-80">
 			<a class="menu-left-block" href="/">
