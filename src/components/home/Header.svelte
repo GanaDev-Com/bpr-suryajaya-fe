@@ -5,7 +5,8 @@
 	<div class="slider-main">
 		<div class="slider-item slider-first">
 			<div class="bg-img">
-				<img loading="lazy"
+				<img
+					loading="lazy"
 					class="w-100 h-100 animate__animated animate__fadeIn animate__delay-0-2s"
 					src="assets/images/slider/slider1.png"
 					alt=""

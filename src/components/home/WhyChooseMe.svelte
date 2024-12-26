@@ -51,7 +51,8 @@
 					<img loading="lazy" class="w-100" src="assets/images/component/about-home5.png" alt="" />
 				</div>
 				<div class="sub-img">
-					<img loading="lazy" src="assets/images/component/sub-about5-left.png" alt="" /><img loading="lazy"
+					<img loading="lazy" src="assets/images/component/sub-about5-left.png" alt="" /><img
+						loading="lazy"
 						src="assets/images/component/sub-about5.png"
 						alt=""
 					/>

@@ -3,7 +3,8 @@
 		<div class="row flex-item-center">
 			<div class="col-12 col-xl-6 col-lg-6">
 				<div class="bg-img w-100 overflow-hidden bora-20">
-					<img loading="lazy"
+					<img
+						loading="lazy"
 						class="w-100 h-100 hover-scale display-block bora-20"
 						src="assets/images/component/assessment.png"
 						alt=""

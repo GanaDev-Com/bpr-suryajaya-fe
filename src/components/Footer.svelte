@@ -12,7 +12,12 @@
 				<div class="row flex-between pb-40">
 					<div class="col-3">
 						<div class="footer-company-infor flex-columns-between gap-20">
-							<img loading="lazy" class="footer-logo" src="assets/images/logo-white.png" alt="Logo" />
+							<img
+								loading="lazy"
+								class="footer-logo"
+								src="assets/images/logo-white.png"
+								alt="Logo"
+							/>
 							<div class="text caption1 text-white">
 								BPR Suryajaya Kubutambahan, solusi keuangan terpercaya untuk kebutuhan pribadi dan
 								usaha Anda.
