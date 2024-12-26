@@ -5,16 +5,16 @@
 	let activePage = derived(page, ($page) => $page.data.props.active || null);
 </script>
 
-<div id="header">
+<div id="header" data-sveltekit-reload>
 	<div class="header-menu style-one bg-white">
 		<div class="container flex-between h-80">
-			<a class="menu-left-block" data-sveltekit-reload href="/">
+			<a class="menu-left-block" href="/">
 				<img class="menu-logo display-block" src="assets/images/logo-default.png" alt="logo" />
 			</a>
 			<div class="menu-center-block h-100">
 				<ul class="menu-nav flex-item-center h-100">
 					<li class="nav-item h-100 flex-center home {$activePage == 'about-us' ? 'active' : ''}">
-						<a class="nav-link" data-sveltekit-reload href="/about-us">Kenali Lebih Dekat</a>
+						<a class="nav-link" href="/about-us">Kenali Lebih Dekat</a>
 					</li>
 					<li class="nav-item h-100 flex-center about">
 						<a class="nav-link" href="#!">Produk Kami <i class="ph ph-caret-down fs-14"></i></a>
