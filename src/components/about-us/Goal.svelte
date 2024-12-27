@@ -100,7 +100,7 @@
 <div class="service-block mt-100 pt-100 pb-100 bg-surface">
 	<div class="container">
 		<div class="heading-block text-center">
-			<div class="heading3">Capaian Kami</div>
+			<div class="heading4">Capaian Kami</div>
 			<div class="body3 text-secondary mt-12">
 				Memberikan Layanan Keuangan yang Semakin Profesional dan #SemakinDekatdiHati Anda.
 			</div>

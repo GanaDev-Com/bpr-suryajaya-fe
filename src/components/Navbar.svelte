@@ -3,6 +3,7 @@
 	import { derived } from 'svelte/store';
 
 	let activePage = derived(page, ($page) => $page.data.props.active || null);
+	let productPage = ['product-kredit', 'product-tabungan', 'product-deposito'];
 </script>
 
 <div id="header" data-sveltekit-reload>
@@ -22,7 +23,7 @@
 						<a class="nav-link" href="/about-us">Kenali Lebih Dekat</a>
 					</li>
 					<li
-						class="nav-item h-100 flex-center about {$activePage == 'product-kredit'
+						class="nav-item h-100 flex-center about {productPage.includes($activePage)
 							? 'active'
 							: ''}"
 					>
@@ -31,7 +32,7 @@
 							<li class="sub-nav-item {$activePage == 'product-kredit' ? 'active' : ''}">
 								<a class="sub-nav-link" href="/product/kredit">Kredit</a>
 							</li>
-							<li class="sub-nav-item">
+							<li class="sub-nav-item {$activePage == 'product-tabungan' ? 'active' : ''}">
 								<a class="sub-nav-link" href="/product/tabungan">Tabungan</a>
 							</li>
 							<li class="sub-nav-item">
