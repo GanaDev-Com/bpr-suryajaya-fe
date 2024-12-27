@@ -15,8 +15,8 @@
 		<div class="text-nav">
 			<div class="heading3 text-white">Layanan Kredit</div>
 			<div class="sub-heading mt-8 text-white fw-400">
-				Berbagai solusi kredit yang fleksibel dan terpercaya untuk mendukung kebutuhan
-				finansial pribadi atau usaha Anda.
+				Berbagai solusi kredit yang fleksibel dan terpercaya untuk mendukung kebutuhan finansial
+				pribadi atau usaha Anda.
 			</div>
 		</div>
 	</div>
