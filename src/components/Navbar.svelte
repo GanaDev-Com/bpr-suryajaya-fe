@@ -21,10 +21,14 @@
 					<li class="nav-item h-100 flex-center home {$activePage == 'about-us' ? 'active' : ''}">
 						<a class="nav-link" href="/about-us">Kenali Lebih Dekat</a>
 					</li>
-					<li class="nav-item h-100 flex-center about">
+					<li
+						class="nav-item h-100 flex-center about {$activePage == 'product-kredit'
+							? 'active'
+							: ''}"
+					>
 						<a class="nav-link" href="#!">Produk Kami <i class="ph ph-caret-down fs-14"></i></a>
 						<ul class="sub-nav hidden">
-							<li class="sub-nav-item">
+							<li class="sub-nav-item {$activePage == 'product-kredit' ? 'active' : ''}">
 								<a class="sub-nav-link" href="/product/kredit">Kredit</a>
 							</li>
 							<li class="sub-nav-item">

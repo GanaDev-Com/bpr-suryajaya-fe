@@ -114,7 +114,6 @@
 		height: 620px;
 	}
 }
-.header-menu .menu-center-block .nav-item.active a {
+.header-menu .menu-center-block .nav-item.active > .nav-link {
 	color: var(--blue);
-	padding-left: 20px;
 }
