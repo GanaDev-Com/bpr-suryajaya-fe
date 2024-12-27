@@ -3,6 +3,7 @@
 	import { derived } from 'svelte/store';
 
 	let activePage = derived(page, ($page) => $page.data.props.active || null);
+	let productPage = ['product-kredit', 'product-tabungan', 'product-deposito'];
 </script>
 
 <div id="header" data-sveltekit-reload>
@@ -12,7 +13,7 @@
 				<img
 					loading="lazy"
 					class="menu-logo display-block"
-					src="assets/images/logo-default.png"
+					src="/assets/images/logo-default.png"
 					alt="logo"
 				/>
 			</a>
@@ -21,17 +22,21 @@
 					<li class="nav-item h-100 flex-center home {$activePage == 'about-us' ? 'active' : ''}">
 						<a class="nav-link" href="/about-us">Kenali Lebih Dekat</a>
 					</li>
-					<li class="nav-item h-100 flex-center about">
+					<li
+						class="nav-item h-100 flex-center about {productPage.includes($activePage)
+							? 'active'
+							: ''}"
+					>
 						<a class="nav-link" href="#!">Produk Kami <i class="ph ph-caret-down fs-14"></i></a>
 						<ul class="sub-nav hidden">
-							<li class="sub-nav-item">
-								<a class="sub-nav-link" href="#!">Kredit</a>
+							<li class="sub-nav-item {$activePage == 'product-kredit' ? 'active' : ''}">
+								<a class="sub-nav-link" href="/product/kredit">Kredit</a>
+							</li>
+							<li class="sub-nav-item {$activePage == 'product-tabungan' ? 'active' : ''}">
+								<a class="sub-nav-link" href="/product/tabungan">Tabungan</a>
 							</li>
 							<li class="sub-nav-item">
-								<a class="sub-nav-link" href="#!">Tabungan</a>
-							</li>
-							<li class="sub-nav-item">
-								<a class="sub-nav-link" href="#!">Deposito</a>
+								<a class="sub-nav-link" href="/product/deposito">Deposito</a>
 							</li>
 						</ul>
 					</li>
@@ -81,13 +86,13 @@
 							>
 							<ul class="sub-nav-mobile">
 								<li class="sub-nav-item pl-12 pr-12 pt-8 pb-8">
-									<a class="sub-nav-link fs-14" href="#!">Kredit</a>
+									<a class="sub-nav-link fs-14" href="/product/kredit">Kredit</a>
 								</li>
 								<li class="sub-nav-item pl-12 pr-12 pt-8 pb-8">
-									<a class="sub-nav-link fs-14" href="#!">Tabungan</a>
+									<a class="sub-nav-link fs-14" href="/product/tabungan">Tabungan</a>
 								</li>
 								<li class="sub-nav-item pl-12 pr-12 pt-8 pb-8">
-									<a class="sub-nav-link fs-14" href="#!">Deposito</a>
+									<a class="sub-nav-link fs-14" href="/product/deposito">Deposito</a>
 								</li>
 							</ul>
 						</li>

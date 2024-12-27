@@ -15,7 +15,7 @@
 							<img
 								loading="lazy"
 								class="footer-logo"
-								src="assets/images/logo-white.png"
+								src="/assets/images/logo-white.png"
 								alt="Logo"
 							/>
 							<div class="text caption1 text-white">
@@ -79,16 +79,24 @@
 								<div class="item-heading text-button-small text-white">Halaman</div>
 								<ul class="list-nav mt-4">
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Kenali Lebih Dekat</a>
+										<a class="caption1 text-line hover-underline" href="/about-us"
+											>Kenali Lebih Dekat</a
+										>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Produk Kredit</a>
+										<a class="caption1 text-line hover-underline" href="/product/kredit"
+											>Produk Kredit</a
+										>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Produk Tabungan</a>
+										<a class="caption1 text-line hover-underline" href="/product/tabungan"
+											>Produk Tabungan</a
+										>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Produk Deposito</a>
+										<a class="caption1 text-line hover-underline" href="/product/deposito"
+											>Produk Deposito</a
+										>
 									</li>
 								</ul>
 							</div>

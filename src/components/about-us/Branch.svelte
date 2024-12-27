@@ -1,7 +1,7 @@
 <div class="service-block mt-80">
 	<div class="container">
 		<div class="heading-block text-center">
-			<div class="heading3">Cabang Kami</div>
+			<div class="heading4">Cabang Kami</div>
 			<div class="body3 text-secondary mt-12">
 				<strong>BPR Suryajaya Kubutambahan</strong> Kini Hadir #SemakinDekatdiHati Anda.
 			</div>

@@ -6,7 +6,7 @@
 					<img
 						loading="lazy"
 						class="w-100 h-100 hover-scale display-block bora-20"
-						src="assets/images/component/assessment.png"
+						src="/assets/images/component/assessment.png"
 						alt=""
 					/>
 				</div>

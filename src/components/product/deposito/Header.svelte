@@ -7,12 +7,16 @@
 			<a class="hover-underline caption1 text-white" href="/">Beranda</a><i
 				class="ph ph-caret-double-right text-white"
 			></i>
-			<div class="caption1 text-white">Kenali Lebih Dekat</div>
+			<a class="hover-underline caption1 text-white" href="/product/deposito">Produk</a><i
+				class="ph ph-caret-double-right text-white"
+			></i>
+			<div class="caption1 text-white">Deposito</div>
 		</div>
 		<div class="text-nav">
-			<div class="heading3 text-white">#SemakinDekatdiHati</div>
+			<div class="heading3 text-white">Layanan Deposito</div>
 			<div class="sub-heading mt-8 text-white fw-400">
-				Berkomitmen untuk memberikan solusi finansial yang fleksibel dan terpercaya
+				Berbagai solusi deposito yang fleksibel dan terpercaya untuk mendukung kebutuhan finansial
+				pribadi atau masa depan Anda. Telah dijamin oleh Lembaga Penjamin Simpanan (LPS).
 			</div>
 		</div>
 	</div>
