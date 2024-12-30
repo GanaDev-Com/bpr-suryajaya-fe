@@ -6,7 +6,7 @@
 					<div class="heading4">
 						Mengapa Memilih <b>BPR Suryajaya Kubutambahan</b>
 					</div>
-					<div class="body3 text-secondary mt-20">
+					<div class="body2 text-secondary mt-20 text-justify">
 						<strong>PT. BPR Suryajaya Kubutambahan</strong> menawarkan berbagai produk perbankan yang
 						dirancang untuk memenuhi kebutuhan keuangan Anda, baik untuk pribadi maupun usaha. Dengan
 						lebih dari 30 tahun pengalaman, kami berkomitmen untuk menyediakan layanan terbaik dan memberikan
@@ -17,29 +17,29 @@
 							<div class="col-12 col-sm-6 left">
 								<div class="item flex-item-center gap-12">
 									<i class="ph-fill ph-square text-blue"></i>
-									<div class="heading7">Produk yang beragam</div>
+									<div class="body2 text-secondary">Produk yang beragam</div>
 								</div>
 								<div class="item flex-item-center gap-12 mt-12">
 									<i class="ph-fill ph-square text-blue"></i>
-									<div class="heading7">Suku bunga kompetitif</div>
+									<div class="body2 text-secondary">Suku bunga kompetitif</div>
 								</div>
 								<div class="item flex-item-center gap-12 mt-12">
 									<i class="ph-fill ph-square text-blue"></i>
-									<div class="heading7">Proses yang cepat dan mudah</div>
+									<div class="body2 text-secondary">Proses yang cepat dan mudah</div>
 								</div>
 							</div>
 							<div class="col-12 col-sm-6 right">
 								<div class="item flex-item-center gap-12">
 									<i class="ph-fill ph-square text-blue"></i>
-									<div class="heading7">Tabungan dan kredit fleksibel</div>
+									<div class="body2 text-secondary">Tabungan dan kredit fleksibel</div>
 								</div>
 								<div class="item flex-item-center gap-12 mt-12">
 									<i class="ph-fill ph-square text-blue"></i>
-									<div class="heading7">Pengalaman lebih dari 30 tahun</div>
+									<div class="body2 text-secondary">Pengalaman lebih dari 30 tahun</div>
 								</div>
 								<div class="item flex-item-center gap-12 mt-12">
 									<i class="ph-fill ph-square text-blue"></i>
-									<div class="heading7">Layanan nasabah yang responsif</div>
+									<div class="body2 text-secondary">Layanan nasabah yang responsif</div>
 								</div>
 							</div>
 						</div>
