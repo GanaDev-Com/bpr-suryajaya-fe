@@ -61,8 +61,8 @@
 							</li>
 						</ul>
 					</li>
-					<li class="nav-item h-100 flex-center pages">
-						<a class="nav-link" href="#!">Bantuan</a>
+					<li class="nav-item h-100 flex-center pages {$activePage == 'bantuan' ? 'active' : ''}">
+						<a class="nav-link" href="/support">Bantuan</a>
 					</li>
 				</ul>
 			</div>
@@ -156,8 +156,13 @@
 								</li>
 							</ul>
 						</li>
-						<li class="nav-item-mobile h-100 flex-column gap-8 pt-4 pb-8 pl-12 pr-12 pointer case">
-							<a class="fs-14 nav-link-mobile" href="#!">Bantuan</a>
+						<li
+							class="nav-item-mobile h-100 flex-column gap-8 pt-4 pb-8 pl-12 pr-12 pointer case {$activePage ==
+							'bantuan'
+								? 'active'
+								: ''}"
+						>
+							<a class="fs-14 nav-link-mobile" href="/support">Bantuan</a>
 						</li>
 					</ul>
 				</div>
