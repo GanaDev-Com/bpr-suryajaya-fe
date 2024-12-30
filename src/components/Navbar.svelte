@@ -54,10 +54,10 @@
 								<a class="sub-nav-link" href="/report/tahunan">Laporan Tahunan</a>
 							</li>
 							<li class="sub-nav-item {$activePage == 'laporan-tata-kelola' ? 'active' : ''}">
-								<a class="sub-nav-link" href="#!">Laporan Tata Kelola</a>
+								<a class="sub-nav-link" href="/report/tata-kelola">Laporan Tata Kelola</a>
 							</li>
 							<li class="sub-nav-item {$activePage == 'laporan-publikasi' ? 'active' : ''}">
-								<a class="sub-nav-link" href="#!">Laporan Publikasi</a>
+								<a class="sub-nav-link" href="/report/publikasi">Laporan Publikasi</a>
 							</li>
 						</ul>
 					</li>
@@ -81,9 +81,8 @@
 				<div class="container">
 					<ul class="menu-nav-mobile h-100 pt-4 pb-4">
 						<li
-							class="nav-item-mobile h-100 flex-column gap-8 pt-8 pb-8 pl-12 pr-12 pointer home {productPage.includes(
-								$activePage
-							)
+							class="nav-item-mobile h-100 flex-column gap-8 pt-8 pb-8 pl-12 pr-12 pointer home {$activePage ==
+							'about-us'
 								? 'active'
 								: ''}"
 						>
@@ -124,20 +123,36 @@
 							</ul>
 						</li>
 						<li
-							class="nav-item-mobile h-100 flex-column gap-8 pt-4 pb-8 pl-12 pr-12 pointer services"
+							class="nav-item-mobile h-100 flex-column gap-8 pt-4 pb-8 pl-12 pr-12 pointer services {laporanPage.includes(
+								$activePage
+							)
+								? 'active'
+								: ''}"
 						>
 							<a class="fs-14 nav-link-mobile" href="#!"
 								>Laporan dan Publikasi<i class="ph-fill ph-caret-down fs-12"></i></a
 							>
 							<ul class="sub-nav-mobile">
-								<li class="sub-nav-item pl-12 pr-12 pt-8 pb-8">
+								<li
+									class="sub-nav-item pl-12 pr-12 pt-8 pb-8 {$activePage == 'laporan-tahunan'
+										? 'active'
+										: ''}"
+								>
 									<a class="sub-nav-link fs-14" href="/report/tahunan">Laporan Tahunan</a>
 								</li>
-								<li class="sub-nav-item pl-12 pr-12 pt-8 pb-8">
-									<a class="sub-nav-link fs-14" href="#!">Laporan Tata Kelola</a>
+								<li
+									class="sub-nav-item pl-12 pr-12 pt-8 pb-8 {$activePage == 'laporan-tata-kelola'
+										? 'active'
+										: ''}"
+								>
+									<a class="sub-nav-link fs-14" href="/report/tata-kelola">Laporan Tata Kelola</a>
 								</li>
-								<li class="sub-nav-item pl-12 pr-12 pt-8 pb-8">
-									<a class="sub-nav-link fs-14" href="#!">Laporan Publikasi</a>
+								<li
+									class="sub-nav-item pl-12 pr-12 pt-8 pb-8 {$activePage == 'laporan-publikasi'
+										? 'active'
+										: ''}"
+								>
+									<a class="sub-nav-link fs-14" href="/report/publikasi">Laporan Publikasi</a>
 								</li>
 							</ul>
 						</li>

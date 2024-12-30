@@ -15,9 +15,11 @@
 					</div>
 					<div class="col-12 col-md-6">
 						<div class="caption2 pt-4 pb-4 pl-12 pr-12 bg-surface bora-40 display-inline-block">
-							Laporan Kinerja Tahun 2024
+							Laporan Tata Kelola 2024
 						</div>
-						<div class="heading6 mt-8">LAPORAN KINERJA TAHUN 2024</div>
+						<div class="heading6 mt-8">
+							LAPORAN PELAKSANAAN DAN SELF ASSESMENT TATA KELOLA BANK 2024
+						</div>
 						<div class="date flex-item-center gap-16 mt-8">
 							<div class="author caption2 text-secondary">
 								by <span class="text-on-surface">Admin BPR Suryajaya </span>
@@ -29,7 +31,7 @@
 							</div>
 						</div>
 						<div class="body3 text-secondary mt-16 pb-16">
-							Berikut merupakan laporan kinerja Tahun 2024
+							Berikut merupakan laporan pelaksanaan dan self assesment tata kelola Bank Tahun 2024
 						</div>
 						<div class="read fw-700 text-underline">Unduh Dokumen</div>
 					</div>
@@ -47,9 +49,11 @@
 					</div>
 					<div class="col-12 col-md-6">
 						<div class="caption2 pt-4 pb-4 pl-12 pr-12 bg-surface bora-40 display-inline-block">
-							Laporan Kinerja Tahun 2023
+							Laporan Tata Kelola 2024
 						</div>
-						<div class="heading6 mt-8">LAPORAN KINERJA TAHUN 2023</div>
+						<div class="heading6 mt-8">
+							LAPORAN PELAKSANAAN DAN SELF ASSESMENT TATA KELOLA BANK 2023
+						</div>
 						<div class="date flex-item-center gap-16 mt-8">
 							<div class="author caption2 text-secondary">
 								by <span class="text-on-surface">Admin BPR Suryajaya </span>
@@ -61,7 +65,7 @@
 							</div>
 						</div>
 						<div class="body3 text-secondary mt-16 pb-16">
-							Berikut merupakan laporan kinerja Tahun 2023
+							Berikut merupakan laporan pelaksanaan dan self assesment tata kelola Bank Tahun 2023
 						</div>
 						<div class="read fw-700 text-underline">Unduh Dokumen</div>
 					</div>

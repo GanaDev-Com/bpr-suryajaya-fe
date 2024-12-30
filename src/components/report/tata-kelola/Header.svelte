@@ -7,13 +7,13 @@
 			<a class="hover-underline caption1 text-white" href="/">Beranda</a><i
 				class="ph ph-caret-double-right text-white"
 			></i>
-			<a class="hover-underline caption1 text-white" href="/laporan/tahunan">Laporan</a><i
+			<a class="hover-underline caption1 text-white" href="/laporan/tata-kelola">Laporan</a><i
 				class="ph ph-caret-double-right text-white"
 			></i>
-			<div class="caption1 text-white">Laporan Tahunan</div>
+			<div class="caption1 text-white">Laporan Tata Kelola</div>
 		</div>
 		<div class="text-nav">
-			<div class="heading3 text-white">Laporan Tahunan</div>
+			<div class="heading3 text-white">Laporan Tata Kelola</div>
 			<div class="sub-heading mt-8 text-white fw-400">
 				Transparansi kinerja dan pencapaian perusahaan untuk mendukung kepercayaan, profesionalitas,
 				dan nilai berkelanjutan kami.

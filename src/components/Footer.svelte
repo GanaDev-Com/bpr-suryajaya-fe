@@ -62,13 +62,19 @@
 								<div class="item-heading text-button-small text-white">Tautan Penting</div>
 								<ul class="list-nav mt-4">
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Laporan Tahunan</a>
+										<a class="caption1 text-line hover-underline" href="/report/tahunan"
+											>Laporan Tahunan</a
+										>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Laporan Tata Kelola</a>
+										<a class="caption1 text-line hover-underline" href="/report/tata-kelola"
+											>Laporan Tata Kelola</a
+										>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Laporan Publikasi</a>
+										<a class="caption1 text-line hover-underline" href="/report/publikasi"
+											>Laporan Publikasi</a
+										>
 									</li>
 									<li class="mt-12">
 										<a class="caption1 text-line hover-underline" href="#!">Bantuan</a>
