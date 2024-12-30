@@ -4,6 +4,7 @@
 
 	let activePage = derived(page, ($page) => $page.data.props.active || null);
 	let productPage = ['product-kredit', 'product-tabungan', 'product-deposito'];
+	let laporanPage = ['laporan-tahunan', 'laporan-tata-kelola', 'laporan-publikasi'];
 </script>
 
 <div id="header" data-sveltekit-reload>
@@ -35,23 +36,27 @@
 							<li class="sub-nav-item {$activePage == 'product-tabungan' ? 'active' : ''}">
 								<a class="sub-nav-link" href="/product/tabungan">Tabungan</a>
 							</li>
-							<li class="sub-nav-item">
+							<li class="sub-nav-item {$activePage == 'product-deposito' ? 'active' : ''}">
 								<a class="sub-nav-link" href="/product/deposito">Deposito</a>
 							</li>
 						</ul>
 					</li>
-					<li class="nav-item h-100 flex-center case">
+					<li
+						class="nav-item h-100 flex-center case {laporanPage.includes($activePage)
+							? 'active'
+							: ''}"
+					>
 						<a class="nav-link" href="#!"
 							>Laporan dan Publikasi<i class="ph ph-caret-down fs-14"></i></a
 						>
 						<ul class="sub-nav hidden">
-							<li class="sub-nav-item">
-								<a class="sub-nav-link" href="#!">Laporan Tahunan</a>
+							<li class="sub-nav-item {$activePage == 'laporan-tahunan' ? 'active' : ''}">
+								<a class="sub-nav-link" href="/report/tahunan">Laporan Tahunan</a>
 							</li>
-							<li class="sub-nav-item">
+							<li class="sub-nav-item {$activePage == 'laporan-tata-kelola' ? 'active' : ''}">
 								<a class="sub-nav-link" href="#!">Laporan Tata Kelola</a>
 							</li>
-							<li class="sub-nav-item">
+							<li class="sub-nav-item {$activePage == 'laporan-publikasi' ? 'active' : ''}">
 								<a class="sub-nav-link" href="#!">Laporan Publikasi</a>
 							</li>
 						</ul>
@@ -75,23 +80,45 @@
 			<div class="menu-mobile-main">
 				<div class="container">
 					<ul class="menu-nav-mobile h-100 pt-4 pb-4">
-						<li class="nav-item-mobile h-100 flex-column gap-8 pt-8 pb-8 pl-12 pr-12 pointer home">
-							<a class="fs-14 nav-link-mobile" href="/about-us"
-								>Kenali Lebih Dekat <i class="ph-fill ph-caret-down fs-12"></i></a
-							>
+						<li
+							class="nav-item-mobile h-100 flex-column gap-8 pt-8 pb-8 pl-12 pr-12 pointer home {productPage.includes(
+								$activePage
+							)
+								? 'active'
+								: ''}"
+						>
+							<a class="fs-14 nav-link-mobile" href="/about-us">Kenali Lebih Dekat</a>
 						</li>
-						<li class="nav-item-mobile h-100 flex-column gap-8 pt-4 pb-8 pl-12 pr-12 pointer about">
+						<li
+							class="nav-item-mobile h-100 flex-column gap-8 pt-4 pb-8 pl-12 pr-12 pointer about {productPage.includes(
+								$activePage
+							)
+								? 'active'
+								: ''}"
+						>
 							<a class="fs-14 nav-link-mobile" href="#!"
 								>Produk Kami<i class="ph-fill ph-caret-down fs-12"></i></a
 							>
 							<ul class="sub-nav-mobile">
-								<li class="sub-nav-item pl-12 pr-12 pt-8 pb-8">
+								<li
+									class="sub-nav-item pl-12 pr-12 pt-8 pb-8 {$activePage == 'product-kredit'
+										? 'active'
+										: ''}"
+								>
 									<a class="sub-nav-link fs-14" href="/product/kredit">Kredit</a>
 								</li>
-								<li class="sub-nav-item pl-12 pr-12 pt-8 pb-8">
+								<li
+									class="sub-nav-item pl-12 pr-12 pt-8 pb-8 {$activePage == 'product-tabungan'
+										? 'active'
+										: ''}"
+								>
 									<a class="sub-nav-link fs-14" href="/product/tabungan">Tabungan</a>
 								</li>
-								<li class="sub-nav-item pl-12 pr-12 pt-8 pb-8">
+								<li
+									class="sub-nav-item pl-12 pr-12 pt-8 pb-8 {$activePage == 'product-deposito'
+										? 'active'
+										: ''}"
+								>
 									<a class="sub-nav-link fs-14" href="/product/deposito">Deposito</a>
 								</li>
 							</ul>
@@ -104,7 +131,7 @@
 							>
 							<ul class="sub-nav-mobile">
 								<li class="sub-nav-item pl-12 pr-12 pt-8 pb-8">
-									<a class="sub-nav-link fs-14" href="#!">Laporan Tahunan</a>
+									<a class="sub-nav-link fs-14" href="/report/tahunan">Laporan Tahunan</a>
 								</li>
 								<li class="sub-nav-item pl-12 pr-12 pt-8 pb-8">
 									<a class="sub-nav-link fs-14" href="#!">Laporan Tata Kelola</a>
