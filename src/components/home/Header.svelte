@@ -9,7 +9,7 @@
 					loading="lazy"
 					class="w-100 h-100 animate__animated animate__fadeIn animate__delay-0-2s"
 					src="/assets/images/slider/slider1.png"
-					alt=""
+					alt="Solusi Keuangan Terpercaya"
 				/>
 			</div>
 			<div class="container">
@@ -36,7 +36,12 @@
 		</div>
 		<div class="slider-item slider-second">
 			<div class="bg-img">
-				<img loading="lazy" class="w-100 h-100" src="/assets/images/slider/slider1-2.png" alt="" />
+				<img
+					loading="lazy"
+					class="w-100 h-100"
+					src="/assets/images/slider/slider1-2.png"
+					alt="Keamanan Transaksi"
+				/>
 			</div>
 			<div class="container">
 				<div class="text-content flex-columns-between">
@@ -59,7 +64,12 @@
 		</div>
 		<div class="slider-item slider-third">
 			<div class="bg-img">
-				<img loading="lazy" class="w-100 h-100" src="/assets/images/slider/slider1-1.png" alt="" />
+				<img
+					loading="lazy"
+					class="w-100 h-100"
+					src="/assets/images/slider/slider1-1.png"
+					alt="Impian Anda"
+				/>
 			</div>
 			<div class="container">
 				<div class="text-content flex-columns-between">

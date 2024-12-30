@@ -6,7 +6,7 @@
 </script>
 
 <div id="footer">
-	<div class="style-one">
+	<div class="style-one" data-sveltekit-reload>
 		<div class="footer-block bg-dark pt-60">
 			<div class="container">
 				<div class="row flex-between pb-40">
@@ -62,16 +62,22 @@
 								<div class="item-heading text-button-small text-white">Tautan Penting</div>
 								<ul class="list-nav mt-4">
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Laporan Tahunan</a>
+										<a class="caption1 text-line hover-underline" href="/report/tahunan"
+											>Laporan Tahunan</a
+										>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Laporan Tata Kelola</a>
+										<a class="caption1 text-line hover-underline" href="/report/tata-kelola"
+											>Laporan Tata Kelola</a
+										>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Laporan Publikasi</a>
+										<a class="caption1 text-line hover-underline" href="/report/publikasi"
+											>Laporan Publikasi</a
+										>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Bantuan</a>
+										<a class="caption1 text-line hover-underline" href="/support">Bantuan</a>
 									</li>
 								</ul>
 							</div>
@@ -104,16 +110,29 @@
 								<div class="item-heading text-button-small text-white">Tautan Lainnya</div>
 								<ul class="list-nav mt-4">
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Lapor Via WhatsApp</a>
+										<a
+											target="_blank"
+											rel="noopener noreferrer"
+											class="caption1 text-line hover-underline"
+											href="https://wa.me/6282339222539?text=Halo%20BPR%20Suryajaya%20Kubutambahan,%20Saya%20ingin%20melaporkan%20aduan"
+											>Lapor Via WhatsApp</a
+										>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Lapor Aduan</a>
+										<a class="caption1 text-line hover-underline" href="/support/form-aduan"
+											>Lapor Aduan</a
+										>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">Karir</a>
+										<a
+											target="_blank"
+											rel="noopener noreferrer"
+											class="caption1 text-line hover-underline"
+											href="https://s.id/bpr-suryajaya-kbt">Karir</a
+										>
 									</li>
 									<li class="mt-12">
-										<a class="caption1 text-line hover-underline" href="#!">FAQs</a>
+										<a class="caption1 text-line hover-underline" href="/support">FAQs</a>
 									</li>
 								</ul>
 							</div>

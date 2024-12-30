@@ -22,9 +22,10 @@
 			<div class="col-12 col-xl-6">
 				<div class="bg-img w-100 overflow-hidden bora-20">
 					<img
+						loading="lazy"
 						class="w-100 h-100 hover-scale display-block"
 						src="/assets/images/component/bottom-slider-three.png"
-						alt=""
+						alt="Slider Three"
 					/>
 				</div>
 			</div>

@@ -10,7 +10,7 @@
 						loading="lazy"
 						class="w-100 h-100 display-block"
 						src="/assets/images/member/direktur-utama.jpg"
-						alt=""
+						alt="Direktur Utama"
 					/>
 				</div>
 				<div class="infor text-center pt-16">
@@ -24,7 +24,7 @@
 						loading="lazy"
 						class="w-100 h-100 display-block"
 						src="/assets/images/member/direktur.jpg"
-						alt=""
+						alt="Direktur dan Kepatuhan"
 					/>
 				</div>
 				<div class="infor text-center pt-16">

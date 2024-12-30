@@ -1,6 +1,11 @@
 <div class="payment-gateway-one service-block bg-surface">
 	<div class="bg-img">
-		<img loading="lazy" class="w-100 h-100" src="/assets/images/component/gateway1.png" alt="" />
+		<img
+			loading="lazy"
+			class="w-100 h-100"
+			src="/assets/images/component/gateway1.png"
+			alt="Overview"
+		/>
 	</div>
 	<div class="container list-service">
 		<div class="row">
@@ -31,7 +36,7 @@
 							href="https://wa.me/6282339222539?text=Halo%20BPR%20Suryajaya%20Kubutambahan,%20Saya%20ingin%20berdiskusi%20terkait%20dengan%20produk%20yang%20ditawarkan"
 							><i class="ph ph-phone fs-20"></i><span>(+62) 823-3922-2539</span></a
 						>
-						<img loading="lazy" src="/assets/images/component/gateway1-dot.png" alt="" />
+						<img loading="lazy" src="/assets/images/component/gateway1-dot.png" alt="Dot" />
 					</div>
 				</div>
 			</div>
