@@ -4,7 +4,7 @@
 			<div class="col-12 col-xl-4">
 				<div class="bg-img w-100 overflow-hidden bora-20">
 					<img
-                        loading="lazy"
+						loading="lazy"
 						class="w-100 h-100 hover-scale display-block"
 						src="/assets/images/cta/tata-cara.png"
 						alt="Tata Cara Pengaduan"

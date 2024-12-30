@@ -15,7 +15,9 @@
 					</div>
 					<div class="text text-center">
 						<div class="heading6 text-white">Masih Butuh Bantuan?</div>
-						<div class="body3 text-white mt-8">Hubungi kami dan Sampaikan permasalahan melalui Formulir Aduan</div>
+						<div class="body3 text-white mt-8">
+							Hubungi kami dan Sampaikan permasalahan melalui Formulir Aduan
+						</div>
 					</div>
 					<a
 						class="button-share hover-button-black bg-blue text-white text-button pl-36 pr-36 pt-12 pb-12 bora-48"
