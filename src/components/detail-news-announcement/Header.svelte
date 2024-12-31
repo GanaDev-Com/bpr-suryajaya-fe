@@ -7,7 +7,8 @@
 			<a class="hover-underline caption1 text-white" href="/">Beranda</a><i
 				class="ph ph-caret-double-right text-white"
 			></i>
-			<a class="hover-underline caption1 text-white" href="/news-announcement">Berita dan Pengumuman</a
+			<a class="hover-underline caption1 text-white" href="/news-announcement"
+				>Berita dan Pengumuman</a
 			><i class="ph ph-caret-double-right text-white"></i>
 			<div class="caption1 text-white">Detail</div>
 		</div>
