@@ -173,10 +173,10 @@
 							>Syarat dan Ketentuan</a
 						><span class="text-line caption1">|</span><a
 							class="text-line caption1 hover-underline"
-							href="#!">Kebijakan Privasi</a
+							href="/privacy-policy">Kebijakan Privasi</a
 						><span class="text-line caption1">|</span><a
 							class="text-line caption1 hover-underline"
-							href="#!">Kebijakan Cookie</a
+							href="/cookie-policy">Kebijakan Cookie</a
 						><span class="text-line caption1">|</span><a
 							class="text-line caption1 hover-underline"
 							href="/sitemap.xml">Sitemap</a
