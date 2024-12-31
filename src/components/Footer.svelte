@@ -169,13 +169,18 @@
 						</div>
 					</div>
 					<div class="nav-link flex-item-center gap-10">
-						<a class="text-line caption1 hover-underline" href="#!">Syarat dan Ketentuan</a><span
-							class="text-line caption1">|</span
-						><a class="text-line caption1 hover-underline" href="#!">Kebijakan Privasi</a><span
-							class="text-line caption1">|</span
-						><a class="text-line caption1 hover-underline" href="#!">Kebijakan Cookie</a><span
-							class="text-line caption1">|</span
-						><a class="text-line caption1 hover-underline" href="#!">Sitemap</a>
+						<a class="text-line caption1 hover-underline" href="/term-condition"
+							>Syarat dan Ketentuan</a
+						><span class="text-line caption1">|</span><a
+							class="text-line caption1 hover-underline"
+							href="/privacy-policy">Kebijakan Privasi</a
+						><span class="text-line caption1">|</span><a
+							class="text-line caption1 hover-underline"
+							href="/cookie-policy">Kebijakan Cookie</a
+						><span class="text-line caption1">|</span><a
+							class="text-line caption1 hover-underline"
+							href="/sitemap.xml">Sitemap</a
+						>
 					</div>
 				</div>
 			</div>
