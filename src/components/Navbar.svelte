@@ -61,12 +61,19 @@
 							</li>
 						</ul>
 					</li>
+					<li
+						class="nav-item h-100 flex-center pages {$activePage == 'news-announcement'
+							? 'active'
+							: ''}"
+					>
+						<a class="nav-link" href="/news-announcement">Berita dan Pengumuman</a>
+					</li>
 					<li class="nav-item h-100 flex-center pages {$activePage == 'bantuan' ? 'active' : ''}">
 						<a class="nav-link" href="/support">Bantuan</a>
 					</li>
 				</ul>
 			</div>
-			<div class="menu-right-block flex-item-center">
+			<!-- <div class="menu-right-block flex-item-center">
 				<div class="language-switch">
 					<button id="switch-id" class="active">ID</button>
 					<button id="switch-en">EN</button>
@@ -74,7 +81,7 @@
 				<div class="menu-humburger display-none pointer">
 					<i class="ph-bold ph-list display-block"></i>
 				</div>
-			</div>
+			</div> -->
 		</div>
 		<div id="menu-mobile-block">
 			<div class="menu-mobile-main">
@@ -155,6 +162,14 @@
 									<a class="sub-nav-link fs-14" href="/report/publikasi">Laporan Publikasi</a>
 								</li>
 							</ul>
+						</li>
+						<li
+							class="nav-item-mobile h-100 flex-column gap-8 pt-4 pb-8 pl-12 pr-12 pointer case {$activePage ==
+							'news-announcement'
+								? 'active'
+								: ''}"
+						>
+							<a class="fs-14 nav-link-mobile" href="/news-announcement">Berita dan Pengumuman</a>
 						</li>
 						<li
 							class="nav-item-mobile h-100 flex-column gap-8 pt-4 pb-8 pl-12 pr-12 pointer case {$activePage ==
