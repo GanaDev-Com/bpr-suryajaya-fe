@@ -164,14 +164,14 @@
 					<div class="mt-32 line-x"></div>
 					<div class="infor-below flex-between pt-20 pb-20">
 						<div class="prev-block">
-							<a class="text-left" href="blog-detail-one.html">
+							<a class="text-left" href="#!">
 								<div class="text-button-uppercase text-blue">Previous</div>
 								<div class="heading7 mt-4">How to choose the right customer</div></a
 							>
 						</div>
 						<div class="line-y"></div>
 						<div class="next-block">
-							<a class="text-right" href="blog-detail-two.html">
+							<a class="text-right" href="#!">
 								<div class="text-button-uppercase text-blue">Next</div>
 								<div class="heading7 mt-4">Starting your traveling blog with Vasco</div></a
 							>
