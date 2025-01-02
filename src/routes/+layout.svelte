@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { ChevronUp } from 'svelte-bootstrap-icons';
 	import Style from '../components/Style.svelte';
 	import Script from '../components/Script.svelte';
 	import Navbar from '../components/Navbar.svelte';
@@ -15,7 +16,7 @@
 <div id="content">
 	{@render children()}
 	<a class="scroll-to-top-btn" href="#header" aria-label="Scroll to top"
-		><i class="ph-bold ph-caret-up"></i>
+		><ChevronUp class="text-white" />
 	</a>
 </div>
 <Script />

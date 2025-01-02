@@ -1,3 +1,7 @@
+<script lang="ts">
+	import { Calendar3, ChevronRight } from 'svelte-bootstrap-icons';
+</script>
+
 <div class="blog-list mt-100 pb-60" data-sveltekit-reload>
 	<div class="container">
 		<div class="row row-gap-32">
@@ -21,9 +25,7 @@
 								by <span class="text-on-surface">Bangta</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>1 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">1 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -49,9 +51,7 @@
 								by <span class="text-on-surface">Avitex</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>1 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">1 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -77,9 +77,7 @@
 								by <span class="text-on-surface">MavelCorp</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>2 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">2 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -107,9 +105,7 @@
 								by <span class="text-on-surface">Avitex</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>2 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">2 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -135,9 +131,7 @@
 								by <span class="text-on-surface">BinTech</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>2 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">2 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -163,9 +157,7 @@
 								by <span class="text-on-surface">Bangta</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>3 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">3 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -191,9 +183,7 @@
 								by <span class="text-on-surface">MavelCorp</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>4 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">4 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -219,9 +209,7 @@
 								by <span class="text-on-surface">Bangta</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>5 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">5 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -247,9 +235,7 @@
 								by <span class="text-on-surface">BinTech</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>5 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">5 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -275,9 +261,7 @@
 								by <span class="text-on-surface">MavelCorp</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>5 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">5 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -303,9 +287,7 @@
 								by <span class="text-on-surface">Bangta</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>5 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">5 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -331,9 +313,7 @@
 								by <span class="text-on-surface">Avitex</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>6 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">6 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -359,9 +339,7 @@
 								by <span class="text-on-surface">BinTech</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>6 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">6 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -387,9 +365,7 @@
 								by <span class="text-on-surface">MavelCorp</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>6 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">6 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -415,9 +391,7 @@
 								by <span class="text-on-surface">Bangta</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>7 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">7 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -443,9 +417,7 @@
 								by <span class="text-on-surface">Avitex</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>7 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">7 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -471,9 +443,7 @@
 								by <span class="text-on-surface">BinTech</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>7 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">7 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -501,9 +471,7 @@
 								by <span class="text-on-surface">BinTech</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>9 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">9 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -529,9 +497,7 @@
 								by <span class="text-on-surface">BinTech</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>11 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">11 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -557,9 +523,7 @@
 								by <span class="text-on-surface">MavelCorp</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>12 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">12 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -585,9 +549,7 @@
 								by <span class="text-on-surface">Bangta</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>12 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">12 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -613,9 +575,7 @@
 								by <span class="text-on-surface">Avitex</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>12 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">12 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -641,9 +601,7 @@
 								by <span class="text-on-surface">BinTech</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>13 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">13 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -669,9 +627,7 @@
 								by <span class="text-on-surface">MavelCorp</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>13 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">13 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -697,9 +653,7 @@
 								by <span class="text-on-surface">BinTech</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>14 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">14 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -725,9 +679,7 @@
 								by <span class="text-on-surface">Avitex</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>15 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">15 days ago</span>
 							</div>
 						</div>
 					</div></a
@@ -755,9 +707,7 @@
 								by <span class="text-on-surface">Bangta</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>18 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">18 days ago</span>
 							</div>
 						</div>
 					</div></a

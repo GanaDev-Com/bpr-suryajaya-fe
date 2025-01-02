@@ -1,3 +1,7 @@
+<script lang="ts">
+	import { PiggyBank, CashCoin, EmojiSmile, Bank2 } from 'svelte-bootstrap-icons';
+</script>
+
 <div class="service-block mt-80 pb-60">
 	<div class="container">
 		<div class="heading-block text-center">
@@ -8,7 +12,7 @@
 				<div class="service-item hover-box-shadow bora-8 p-32 bg-white border-line-1px">
 					<a class="service-item-main flex-column gap-16" href="#!">
 						<div class="heading flex-between">
-							<i class="icon-coin-chair text-blue fs-60"></i>
+							<Bank2 width="60" height="60" class="text-blue" />
 							<div class="number heading3 text-placehover">01</div>
 						</div>
 						<div class="desc">
@@ -26,7 +30,7 @@
 				<div class="service-item hover-box-shadow bora-8 p-32 bg-white border-line-1px">
 					<a class="service-item-main flex-column gap-16" href="#!">
 						<div class="heading flex-between">
-							<i class="icon-hand-tick text-blue fs-60"></i>
+							<PiggyBank width="60" height="60" class="text-blue" />
 							<div class="number heading3 text-placehover">02</div>
 						</div>
 						<div class="desc">
@@ -44,7 +48,7 @@
 				<div class="service-item hover-box-shadow bora-8 p-32 bg-white border-line-1px">
 					<a class="service-item-main flex-column gap-16" href="#!">
 						<div class="heading flex-between">
-							<i class="icon-hand-house text-blue fs-60"></i>
+							<EmojiSmile width="60" height="60" class="text-blue" />
 							<div class="number heading3 text-placehover">03</div>
 						</div>
 						<div class="desc">
@@ -62,7 +66,7 @@
 				<div class="service-item hover-box-shadow bora-8 p-32 bg-white border-line-1px">
 					<a class="service-item-main flex-column gap-16" href="#!">
 						<div class="heading flex-between">
-							<i class="icon-coin-hand text-blue fs-60"></i>
+							<CashCoin width="60" height="60" class="text-blue" />
 							<div class="number heading3 text-placehover">04</div>
 						</div>
 						<div class="desc">

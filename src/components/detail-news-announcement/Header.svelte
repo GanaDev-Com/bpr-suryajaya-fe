@@ -1,15 +1,19 @@
+<script lang="ts">
+	import { CaretRightFill, Calendar3 } from 'svelte-bootstrap-icons';
+</script>
+
 <div class="slider-sub">
 	<div class="bg-img">
 		<img src="/assets/images/banner/blog.png" alt="banner" />
 	</div>
 	<div class="container">
 		<div class="heading-nav gap-4 mt-32">
-			<a class="hover-underline caption1 text-white" href="/">Beranda</a><i
-				class="ph ph-caret-double-right text-white"
-			></i>
+			<a class="hover-underline caption1 text-white" href="/">Beranda</a>
+			<CaretRightFill width="10" class="text-white" />
 			<a class="hover-underline caption1 text-white" href="/news-announcement"
 				>Berita dan Pengumuman</a
-			><i class="ph ph-caret-double-right text-white"></i>
+			>
+			<CaretRightFill width="10" class="text-white" />
 			<div class="caption1 text-white">Detail</div>
 		</div>
 		<div class="d-flex justify-content-center">
@@ -31,8 +35,8 @@
 							</div>
 							<div class="space fs-32 fw-400 text-white">-</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank text-white"></i><span
-									class="ml-4 caption2 text-white">2 days ago</span
+								<Calendar3 class="text-white" width="18" /><span class="ml-4 caption2 text-white"
+									>2 days ago</span
 								>
 							</div>
 						</div>

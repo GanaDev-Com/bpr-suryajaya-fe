@@ -1,3 +1,7 @@
+<script lang="ts">
+	import { Telephone } from 'svelte-bootstrap-icons';
+</script>
+
 <div class="payment-gateway-one service-block bg-surface">
 	<div class="bg-img">
 		<img
@@ -34,7 +38,7 @@
 							rel="noopener noreferrer"
 							class="button-share box-shadow hover-button-black text-on-surface bg-white text-button pt-12 pb-12 pl-36 pr-36 bora-48 flex-item-center gap-8"
 							href="https://wa.me/6282339222539?text=Halo%20BPR%20Suryajaya%20Kubutambahan,%20Saya%20ingin%20berdiskusi%20terkait%20dengan%20produk%20yang%20ditawarkan"
-							><i class="ph ph-phone fs-20"></i><span>(+62) 823-3922-2539</span></a
+							><Telephone width="16" /><span>(+62) 823-3922-2539</span></a
 						>
 						<img loading="lazy" src="/assets/images/component/gateway1-dot.png" alt="Dot" />
 					</div>

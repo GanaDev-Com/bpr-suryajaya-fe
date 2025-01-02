@@ -3882,7 +3882,7 @@ Section FAQs (Frequently Asked questions) Home1: Start
 	line-height: 26px;
 	font-weight: 700;
 }
-.faqs-block.style-one > .row > div:last-child .content-main .list-question .question-item i {
+.faqs-block.style-one > .row > div:last-child .content-main .list-question .question-item svg {
 	font-size: 16px;
 }
 @media (min-width: 2000.99px) {
@@ -5131,12 +5131,12 @@ Section Our Team: End
 /*
 Shared List Questions: Start
 */
-.question-item .question-item-main i {
+.question-item .question-item-main svg {
 	transform: rotate(0);
 	transition: all ease 0.5s;
 }
 @media (max-width: 575.99px) {
-	.question-item .question-item-main i {
+	.question-item .question-item-main svg {
 		font-size: 16px;
 	}
 }

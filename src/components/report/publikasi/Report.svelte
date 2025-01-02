@@ -1,3 +1,7 @@
+<script lang="ts">
+	import { Calendar3, ChevronRight } from 'svelte-bootstrap-icons';
+</script>
+
 <div class="blog-list mt-100 pb-60">
 	<div class="container">
 		<div class="row row-gap-40">
@@ -23,9 +27,7 @@
 								by <span class="text-on-surface">Admin BPR Suryajaya </span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>22 April 2024</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">22 April 2024</span>
 							</div>
 						</div>
 						<div class="body3 text-secondary mt-16 pb-16">
@@ -55,9 +57,7 @@
 								by <span class="text-on-surface">Admin BPR Suryajaya </span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>22 April 2024</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">22 April 2024</span>
 							</div>
 						</div>
 						<div class="body3 text-secondary mt-16 pb-16">
@@ -87,9 +87,7 @@
 								by <span class="text-on-surface">Admin BPR Suryajaya </span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>22 April 2024</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">22 April 2024</span>
 							</div>
 						</div>
 						<div class="body3 text-secondary mt-16 pb-16">
@@ -119,9 +117,7 @@
 								by <span class="text-on-surface">Admin BPR Suryajaya </span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>22 April 2024</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">22 April 2024</span>
 							</div>
 						</div>
 						<div class="body3 text-secondary mt-16 pb-16">
@@ -151,9 +147,7 @@
 								by <span class="text-on-surface">Admin BPR Suryajaya </span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>22 April 2023</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">22 April 2023</span>
 							</div>
 						</div>
 						<div class="body3 text-secondary mt-16 pb-16">
@@ -183,9 +177,7 @@
 								by <span class="text-on-surface">Admin BPR Suryajaya </span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>22 April 2023</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">22 April 2023</span>
 							</div>
 						</div>
 						<div class="body3 text-secondary mt-16 pb-16">
@@ -215,9 +207,7 @@
 								by <span class="text-on-surface">Admin BPR Suryajaya </span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>22 April 2023</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">22 April 2023</span>
 							</div>
 						</div>
 						<div class="body3 text-secondary mt-16 pb-16">
@@ -247,9 +237,7 @@
 								by <span class="text-on-surface">Admin BPR Suryajaya </span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>22 April 2023</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">22 April 2023</span>
 							</div>
 						</div>
 						<div class="body3 text-secondary mt-16 pb-16">
@@ -279,9 +267,7 @@
 								by <span class="text-on-surface">Admin BPR Suryajaya </span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>22 April 2023</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">22 April 2023</span>
 							</div>
 						</div>
 						<div class="body3 text-secondary mt-16 pb-16">
@@ -304,13 +290,13 @@
 							class="nav-item bora-8 flex-between p-12 pointer text-button text-secondary active"
 							data-name="tab-one"
 						>
-							Tahun 2024<i class="ph-bold ph-caret-right hidden"></i>
+							Tahun 2024<ChevronRight />
 						</div>
 						<div
 							class="nav-item bora-8 flex-between p-12 pointer text-button text-secondary"
 							data-name="tab-two"
 						>
-							Tahun 2023<i class="ph-bold ph-caret-right hidden"></i>
+							Tahun 2023<ChevronRight />
 						</div>
 					</div>
 				</div>

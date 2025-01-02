@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { page } from '$app/stores';
 	import { derived } from 'svelte/store';
+	import { ChevronDown, List } from 'svelte-bootstrap-icons';
 
 	let activePage = derived(page, ($page) => $page.data.props.active || null);
 	let productPage = ['product-kredit', 'product-tabungan', 'product-deposito'];
@@ -28,7 +29,9 @@
 							? 'active'
 							: ''}"
 					>
-						<a class="nav-link" href="#!">Produk Kami <i class="ph ph-caret-down fs-14"></i></a>
+						<a class="nav-link" href="#!"
+							>Produk Kami<ChevronDown width="12" style="padding-top:6px" /></a
+						>
 						<ul class="sub-nav hidden">
 							<li class="sub-nav-item {$activePage == 'product-kredit' ? 'active' : ''}">
 								<a class="sub-nav-link" href="/product/kredit">Kredit</a>
@@ -47,7 +50,7 @@
 							: ''}"
 					>
 						<a class="nav-link" href="#!"
-							>Laporan dan Publikasi<i class="ph ph-caret-down fs-14"></i></a
+							>Laporan dan Publikasi<ChevronDown width="12" style="padding-top:6px" /></a
 						>
 						<ul class="sub-nav hidden">
 							<li class="sub-nav-item {$activePage == 'laporan-tahunan' ? 'active' : ''}">
@@ -73,15 +76,15 @@
 					</li>
 				</ul>
 			</div>
-			<!-- <div class="menu-right-block flex-item-center">
+			<div class="menu-right-block flex-item-center">
 				<div class="language-switch">
 					<button id="switch-id" class="active">ID</button>
 					<button id="switch-en">EN</button>
 				</div>
 				<div class="menu-humburger display-none pointer">
-					<i class="ph-bold ph-list display-block"></i>
+					<List width="24" height="24" class="display-block" style="font-weight:bold;" />
 				</div>
-			</div> -->
+			</div>
 		</div>
 		<div id="menu-mobile-block">
 			<div class="menu-mobile-main">
@@ -103,7 +106,7 @@
 								: ''}"
 						>
 							<a class="fs-14 nav-link-mobile" href="#!"
-								>Produk Kami<i class="ph-fill ph-caret-down fs-12"></i></a
+								>Produk Kami<ChevronDown width="12" style="padding-top:6px" /></a
 							>
 							<ul class="sub-nav-mobile">
 								<li
@@ -137,7 +140,7 @@
 								: ''}"
 						>
 							<a class="fs-14 nav-link-mobile" href="#!"
-								>Laporan dan Publikasi<i class="ph-fill ph-caret-down fs-12"></i></a
+								>Laporan dan Publikasi<ChevronDown width="12" style="padding-top:6px" /></a
 							>
 							<ul class="sub-nav-mobile">
 								<li

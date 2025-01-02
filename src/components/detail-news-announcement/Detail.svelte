@@ -1,3 +1,7 @@
+<script lang="ts">
+	import { CheckCircle, Facebook, Instagram, Youtube } from 'svelte-bootstrap-icons';
+</script>
+
 <div class="blog-list style-detail mt-100 pb-60">
 	<div class="container">
 		<div class="row flex-center">
@@ -45,59 +49,64 @@
 							<div class="row row-gap-12">
 								<div class="col-12 col-lg-6 row-gap-12 flex-column">
 									<div class="item flex-item-center gap-12">
-										<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
+										<CheckCircle width="12" height="12" class="text-blue" />
 										<div class="text-button">Identification of monthly income</div>
 									</div>
 									<div class="item flex-item-center gap-12">
-										<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
+										<CheckCircle width="12" height="12" class="text-blue" />
 										<div class="text-button">Creation of savings and investment plan</div>
 									</div>
 									<div class="item flex-item-center gap-12">
-										<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
+										<CheckCircle width="12" height="12" class="text-blue" />
 										<div class="text-button">Management and calculation of monthly expenses</div>
 									</div>
 								</div>
 								<div class="col-12 col-lg-6 row-gap-12 flex-column">
 									<div class="item flex-item-center gap-12">
-										<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
+										<CheckCircle width="12" height="12" class="text-blue" />
 										<div class="text-button">Research and Analysis</div>
 									</div>
 									<div class="item flex-item-center gap-12">
-										<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
+										<CheckCircle width="12" height="12" class="text-blue" />
 										<div class="text-button">Investment Management and Investment Advice</div>
 									</div>
 									<div class="item flex-item-center gap-12">
-										<i class="ph-fill ph-check-circle fs-20 text-blue"></i>
+										<CheckCircle width="12" height="12" class="text-blue" />
 										<div class="text-button">Education and Resources</div>
 									</div>
 								</div>
 							</div>
 						</div>
 						<div class="list-li mt-20">
-							<div class="body3 text-secondary d-flex">
-								<i class="ph-fill ph-dot-outline"></i><span class="pl-8"
-									>15+ years of industry experience designing, building, and supporting large-scale
-									distributed systems in production, with recent experience in building large scale
-									cloud services.</span
-								>
-							</div>
-							<div class="body3 text-secondary d-flex mt-8">
-								<i class="ph-fill ph-dot-outline"></i><span class="pl-8"
-									>Deep knowledge and experience with different security areas ke identity and
-									access management, cryptography, network security, etc.</span
-								>
-							</div>
-							<div class="body3 text-secondary d-flex mt-8">
-								<i class="ph-fill ph-dot-outline"></i><span class="pl-8"
-									>Experience with database systems and database internals, such as query engines
-									and optimizers are a big plus.
-								</span>
-							</div>
-							<div class="body3 text-secondary d-flex mt-8">
-								<i class="ph-fill ph-dot-outline"></i><span class="pl-8"
-									>Strong fundamentals in computer science skills.</span
-								>
-							</div>
+							<ul>
+								<li>
+									<div class="body3 text-secondary d-flex">
+										<span class="pl-8"
+											>15+ years of industry experience designing, building, and supporting
+											large-scale distributed systems in production, with recent experience in
+											building large scale cloud services.</span
+										>
+									</div>
+								</li>
+								<li>
+									<div class="body3 text-secondary d-flex">
+										<span class="pl-8"
+											>15+ years of industry experience designing, building, and supporting
+											large-scale distributed systems in production, with recent experience in
+											building large scale cloud services.</span
+										>
+									</div>
+								</li>
+								<li>
+									<div class="body3 text-secondary d-flex">
+										<span class="pl-8"
+											>15+ years of industry experience designing, building, and supporting
+											large-scale distributed systems in production, with recent experience in
+											building large scale cloud services.</span
+										>
+									</div>
+								</li>
+							</ul>
 						</div>
 						<div class="end mt-20 body2 text-secondary">
 							Saving money is an essential skill for financial stability and long-term success. We
@@ -128,18 +137,26 @@
 						<div class="share-block flex-item-center gap-16">
 							<div class="caption2 pt-8 pb-8 pl-16 pr-16 bora-8 border-line-1px">Copy the link</div>
 							<div class="social-media flex-item-center gap-12">
-								<a href="http://facebook.com/" target="_blank" aria-label="facebook"
-									><i class="icon-facebook"></i></a
+								<a
+									href="http://facebook.com/"
+									target="_blank"
+									class="item bora-50 w-28 h-28 border-blue-2px flex-center"
+									aria-label="facebook"><Facebook width="14" class="text-blue" /></a
 								>
-								<a href="http://linkedin.com/" target="_blank" aria-label="linkedin"
-									><i class="icon-in"></i></a
+								<a
+									href="http://instagram.com/"
+									target="_blank"
+									class="item bora-50 w-28 h-28 border-blue-2px flex-center"
+									aria-label="instagram"
 								>
-								<a href="http://twitter.com/" target="_blank" aria-label="twitter">
-									<i class="icon-twitter fs-14"></i></a
-								><a href="http://instagram.com/" target="_blank" aria-label="instagram">
-									<i class="icon-insta fs-14"></i></a
-								><a href="http://youtube.com/" target="_blank" aria-label="youtube">
-									<i class="icon-youtube fs-12"></i></a
+									<Instagram width="14" class="text-blue" /></a
+								><a
+									href="http://youtube.com/"
+									target="_blank"
+									class="item bora-50 w-28 h-28 border-blue-2px flex-center"
+									aria-label="youtube"
+								>
+									<Youtube width="14" class="text-blue" /></a
 								>
 							</div>
 						</div>

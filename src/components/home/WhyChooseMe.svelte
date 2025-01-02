@@ -1,3 +1,7 @@
+<script lang="ts">
+	import { CheckCircle } from 'svelte-bootstrap-icons';
+</script>
+
 <div class="about-home-five service-block mt-100">
 	<div class="container list-service">
 		<div class="row flex-between row-gap-32">
@@ -16,29 +20,29 @@
 						<div class="row row-gap-5">
 							<div class="col-12 col-sm-6 left">
 								<div class="item flex-item-center gap-12">
-									<i class="ph-fill ph-square text-blue"></i>
+									<CheckCircle width="12" height="12" class="text-blue" />
 									<div class="body2 text-secondary">Produk yang beragam</div>
 								</div>
 								<div class="item flex-item-center gap-12 mt-12">
-									<i class="ph-fill ph-square text-blue"></i>
+									<CheckCircle width="12" height="12" class="text-blue" />
 									<div class="body2 text-secondary">Suku bunga kompetitif</div>
 								</div>
 								<div class="item flex-item-center gap-12 mt-12">
-									<i class="ph-fill ph-square text-blue"></i>
+									<CheckCircle width="12" height="12" class="text-blue" />
 									<div class="body2 text-secondary">Proses yang cepat dan mudah</div>
 								</div>
 							</div>
 							<div class="col-12 col-sm-6 right">
 								<div class="item flex-item-center gap-12">
-									<i class="ph-fill ph-square text-blue"></i>
+									<CheckCircle width="12" height="12" class="text-blue" />
 									<div class="body2 text-secondary">Tabungan dan kredit fleksibel</div>
 								</div>
 								<div class="item flex-item-center gap-12 mt-12">
-									<i class="ph-fill ph-square text-blue"></i>
+									<CheckCircle width="12" height="12" class="text-blue" />
 									<div class="body2 text-secondary">Pengalaman lebih dari 30 tahun</div>
 								</div>
 								<div class="item flex-item-center gap-12 mt-12">
-									<i class="ph-fill ph-square text-blue"></i>
+									<CheckCircle width="12" height="12" class="text-blue" />
 									<div class="body2 text-secondary">Layanan nasabah yang responsif</div>
 								</div>
 							</div>

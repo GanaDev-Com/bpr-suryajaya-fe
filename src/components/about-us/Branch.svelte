@@ -1,3 +1,7 @@
+<script lang="ts">
+	import { GeoAlt } from 'svelte-bootstrap-icons';
+</script>
+
 <div class="service-block mt-80">
 	<div class="container">
 		<div class="heading-block text-center">
@@ -16,7 +20,7 @@
 						href="https://maps.app.goo.gl/xvMFmt2Z3sLCu9Yw5"
 					>
 						<div class="heading flex-between">
-							<i class="icon-target text-blue fs-60"></i>
+							<GeoAlt class="text-blue" width="55" height="55" />
 							<div class="number heading3 text-placehover">01</div>
 						</div>
 						<div class="desc">
@@ -38,8 +42,8 @@
 							<span class="fs-14 fw-700 text-blue">Lihat Lokasi</span><i
 								class="ph-bold ph-caret-double-right fs-12 text-blue"
 							></i>
-						</div></a
-					>
+						</div>
+					</a>
 				</div>
 			</div>
 			<div class="col-12 col-xl-4 col-lg-4 col-md-4 col-sm-6">
@@ -51,7 +55,7 @@
 						rel="noopener noreferrer"
 					>
 						<div class="heading flex-between">
-							<i class="icon-target text-blue fs-60"></i>
+							<GeoAlt class="text-blue" width="55" height="55" />
 							<div class="number heading3 text-placehover">02</div>
 						</div>
 						<div class="desc">
@@ -73,8 +77,8 @@
 							<span class="fs-14 fw-700 text-blue">Lihat Lokasi</span><i
 								class="ph-bold ph-caret-double-right fs-12 text-blue"
 							></i>
-						</div></a
-					>
+						</div>
+					</a>
 				</div>
 			</div>
 			<div class="col-12 col-xl-4 col-lg-4 col-md-4 col-sm-6">
@@ -86,7 +90,7 @@
 						rel="noopener noreferrer"
 					>
 						<div class="heading flex-between">
-							<i class="icon-target text-blue fs-60"></i>
+							<GeoAlt class="text-blue" width="55" height="55" />
 							<div class="number heading3 text-placehover">03</div>
 						</div>
 						<div class="desc">
@@ -108,8 +112,8 @@
 							<span class="fs-14 fw-700 text-blue">Lihat Lokasi</span><i
 								class="ph-bold ph-caret-double-right fs-12 text-blue"
 							></i>
-						</div></a
-					>
+						</div>
+					</a>
 				</div>
 			</div>
 		</div>

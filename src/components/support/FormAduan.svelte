@@ -59,7 +59,7 @@
 								<option value="Pengajuan Kredit"> Pengajuan Kredit </option>
 								<option value="Pembukaan Deposito"> Pembukaan Deposito </option>
 								<option value="Masalah Lainnya"> Masalah Lainnya</option>
-							</select><i class="ph ph-caret-down"></i>
+							</select>
 						</div>
 						<div class="col-12">
 							<textarea
