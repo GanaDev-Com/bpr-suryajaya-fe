@@ -202,28 +202,32 @@
 						</div>
 						<div class="desc">
 							<div class="heading7 hover-text-blue">Kredit Investasi</div>
-							<div class="more-infor mt-24">
-								<div class="infor flex-item-center gap-12">
-									<CheckCircle width="16" height="16" class="text-blue" />
-									<div class="text-button-small">Biaya Provis dan adminitrasi kredit Konsuntif</div>
-								</div>
-								<div class="infor flex-item-center gap-12 mt-12">
-									<CheckCircle width="18" height="18" class="text-blue" />
-									<div class="text-button-small">
-										Bunga Kredit konsumtif ( Menurun, Menetap Anuitas )
+							<div class="body4 text-secondary mt-4">
+								<div class="more-infor mt-24">
+									<div class="infor flex-item-center gap-12">
+										<CheckCircle width="16" height="16" class="text-blue" />
+										<div class="text-button-small">
+											Biaya Provis dan adminitrasi kredit Konsuntif
+										</div>
 									</div>
-								</div>
-								<div class="infor flex-item-center gap-12 mt-12">
-									<CheckCircle width="24" height="24" class="text-blue" />
-									<div class="text-button-small">
-										Jangka waktu pinjaman Maksimal 240 ( dua ratus empat puluh ) bulan
+									<div class="infor flex-item-center gap-12 mt-12">
+										<CheckCircle width="18" height="18" class="text-blue" />
+										<div class="text-button-small">
+											Bunga Kredit konsumtif ( Menurun, Menetap Anuitas )
+										</div>
 									</div>
-								</div>
-								<div class="infor flex-item-center gap-12 mt-12">
-									<CheckCircle width="48" height="48" class="text-blue" />
-									<div class="text-button-small">
-										Debitur yang menggunakan fasilitas kredit Investasi adalah Debitur yang memiliki
-										pendapatan baik dari upah, dari usaha, dan dari hasil On The Sport
+									<div class="infor flex-item-center gap-12 mt-12">
+										<CheckCircle width="24" height="24" class="text-blue" />
+										<div class="text-button-small">
+											Jangka waktu pinjaman Maksimal 240 ( dua ratus empat puluh ) bulan
+										</div>
+									</div>
+									<div class="infor flex-item-center gap-12 mt-12">
+										<CheckCircle width="48" height="48" class="text-blue" />
+										<div class="text-button-small">
+											Debitur yang menggunakan fasilitas kredit Investasi adalah Debitur yang
+											memiliki pendapatan baik dari upah, dari usaha, dan dari hasil On The Sport
+										</div>
 									</div>
 								</div>
 							</div>
