@@ -1,3 +1,7 @@
+<script lang="ts">
+	import { Calendar3 } from 'svelte-bootstrap-icons';
+</script>
+
 <div class="blog-list style-one mt-100 pb-80">
 	<div class="container">
 		<div class="heading4 text-center">Berita dan Pengumuman Terbaru</div>
@@ -22,9 +26,7 @@
 								oleh <span class="text-on-surface">Yunita</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>1 hari lalu</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">1 hari lalu</span>
 							</div>
 						</div>
 					</div></a
@@ -50,9 +52,7 @@
 								oleh <span class="text-on-surface">Avitex</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>2 hari lalu</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">2 hari lalu</span>
 							</div>
 						</div>
 					</div></a
@@ -78,9 +78,7 @@
 								oleh <span class="text-on-surface">Avitex</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>2 hari lalu</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">2 hari lalu</span>
 							</div>
 						</div>
 					</div></a
@@ -106,13 +104,11 @@
 								by <span class="text-on-surface">Avitex</span>
 							</div>
 							<div class="item-date flex-item-center">
-								<i class="ph-bold ph-calendar-blank"></i><span class="ml-4 caption2"
-									>3 days ago</span
-								>
+								<Calendar3 width="18" /><span class="ml-4 caption2">3 days ago</span>
 							</div>
 						</div>
-					</div></a
-				>
+					</div>
+				</a>
 			</div>
 		</div>
 	</div>

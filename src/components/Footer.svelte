@@ -1,4 +1,6 @@
 <script lang="ts">
+	import { Facebook, Instagram, Youtube, Send } from 'svelte-bootstrap-icons';
+
 	export let appName: string;
 
 	const date = new Date();
@@ -27,31 +29,19 @@
 									aria-label="icon facebook"
 									class="item bora-50 w-28 h-28 border-grey-2px flex-center"
 									href="https://www.facebook.com/"
-									target="_blank"><i class="icon-facebook fs-12"></i></a
+									target="_blank"><Facebook width="24" color="#fff" /></a
 								>
-								<!-- <a
-									aria-label="icon linkedin"
-									class="item bora-50 w-28 h-28 border-grey-2px flex-center"
-									href="https://www.linkedin.com/"
-									target="_blank"><i class="icon-in fs-12"></i></a
-								>
-								<a
-									aria-label="icon twitter"
-									class="item bora-50 w-28 h-28 border-grey-2px flex-center"
-									href="https://www.twitter.com/"
-									target="_blank"><i class="icon-twitter fs-10"></i></a
-								> -->
 								<a
 									aria-label="icon instagram"
 									class="item bora-50 w-28 h-28 border-grey-2px flex-center"
 									href="https://www.instagram.com/"
-									target="_blank"><i class="icon-insta fs-10"></i></a
+									target="_blank"><Instagram width="24" color="#fff" /></a
 								>
 								<a
 									aria-label="icon youtube"
 									class="item bora-50 w-28 h-28 border-grey-2px flex-center"
 									href="https://www.youtube.com/"
-									target="_blank"><i class="icon-youtube fs-10"></i></a
+									target="_blank"><Youtube width="24" color="#fff" /></a
 								>
 							</div>
 						</div>
@@ -149,7 +139,7 @@
 							<div class="send-block mt-20 flex-item-center">
 								<input class="caption1 text-secondary" type="text" placeholder="Email Anda..." />
 								<button class="flex-center" aria-label="newsletter">
-									<i class="ph ph-paper-plane-tilt text-white"></i>
+									<Send color="#fff" />
 								</button>
 							</div>
 							<div class="mt-12">

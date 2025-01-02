@@ -1,5 +1,6 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
+	import { CurrencyExchange, BarChart } from 'svelte-bootstrap-icons';
 	import Chart from 'chart.js/auto';
 
 	let chart2018: Chart | null = null;
@@ -108,12 +109,9 @@
 		<div class="list-service row mt-32 row-gap-24">
 			<div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6">
 				<div class="service-item hover-box-shadow bora-8 pt-32 pb-32 pl-28 pr-28 bg-white">
-					<a
-						class="service-item-main flex-column gap-16"
-						href="service-cryptocurrency-trading.html"
-					>
+					<a class="service-item-main flex-column gap-16" href="#!">
 						<div class="heading flex-item-center gap-16">
-							<i class="icon-coin-hand text-blue fs-42"></i>
+							<CurrencyExchange class="text-blue" width="42" height="42" />
 							<div class="heading6 hover-text-blue">ASET Tahun 2018</div>
 						</div>
 						<div class="body3 text-secondary">Grafik perkembangan capaian ASET Tahun 2018</div>
@@ -125,7 +123,7 @@
 				<div class="service-item hover-box-shadow bora-8 pt-32 pb-32 pl-28 pr-28 bg-white">
 					<a class="service-item-main flex-column gap-16" href="service-investment-advice.html">
 						<div class="heading flex-item-center gap-16">
-							<i class="icon-coin-pig text-blue fs-42"></i>
+							<BarChart class="text-blue" width="42" height="42" />
 							<div class="heading6 hover-text-blue">ASET Tahun 2019</div>
 						</div>
 						<div class="body3 text-secondary">Grafik perkembangan capaian ASET Tahun 2019</div>

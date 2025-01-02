@@ -1,3 +1,7 @@
+<script lang="ts">
+	import { Telephone } from 'svelte-bootstrap-icons';
+</script>
+
 <div class="bottom-slider-three mt-100">
 	<div class="container">
 		<div class="row row-gap-32 column-reverse-xl">
@@ -17,7 +21,7 @@
 						rel="noopener noreferrer"
 						class="button-share hover-button-black text-white bg-blue text-button display-inline-block pt-12 pb-12 pl-36 pr-36 bora-48"
 						href="https://wa.me/6282339222539?text=Halo%20BPR%20Suryajaya%20Kubutambahan,%20Saya%20ingin%20berdiskusi%20terkait%20dengan%20produk%20yang%20ditawarkan"
-						><i class="ph ph-phone fs-20"></i> Hubungi Via WhatsApp</a
+						><Telephone width="16" /> Hubungi Via WhatsApp</a
 					>
 				</div>
 			</div>

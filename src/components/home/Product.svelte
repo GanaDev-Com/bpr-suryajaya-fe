@@ -1,3 +1,14 @@
+<script lang="ts">
+	import {
+		PiggyBank,
+		CashCoin,
+		EmojiSmile,
+		Bank2,
+		Calendar2Heart,
+		PersonArmsUp
+	} from 'svelte-bootstrap-icons';
+</script>
+
 <div class="service-block mt-100">
 	<div class="container">
 		<div class="heading4 text-center">Produk dan Layanan Kami</div>
@@ -6,7 +17,7 @@
 				<div class="service-item hover-box-shadow bora-8 p-32 bg-white border-line-1px">
 					<a class="service-item-main flex-column gap-16" href="#!">
 						<div class="heading flex-between">
-							<i class="icon-coin-chair text-blue fs-60"></i>
+							<Bank2 width="60" height="60" class="text-blue" />
 							<div class="number heading3 text-placehover"></div>
 						</div>
 						<div class="desc">
@@ -24,7 +35,7 @@
 				<div class="service-item hover-box-shadow bora-8 p-32 bg-white border-line-1px">
 					<a class="service-item-main flex-column gap-16" href="#!">
 						<div class="heading flex-between">
-							<i class="icon-hand-tick text-blue fs-60"></i>
+							<PiggyBank width="60" height="60" class="text-blue" />
 							<div class="number heading3 text-placehover"></div>
 						</div>
 						<div class="desc">
@@ -42,7 +53,7 @@
 				<div class="service-item hover-box-shadow bora-8 p-32 bg-white border-line-1px">
 					<a class="service-item-main flex-column gap-16" href="#!">
 						<div class="heading flex-between">
-							<i class="icon-education text-blue fs-52"></i>
+							<EmojiSmile width="60" height="60" class="text-blue" />
 							<div class="number heading3 text-placehover"></div>
 						</div>
 						<div class="desc">
@@ -60,7 +71,7 @@
 				<div class="service-item hover-box-shadow bora-8 p-32 bg-white border-line-1px">
 					<a class="service-item-main flex-column gap-16" href="#!">
 						<div class="heading flex-between">
-							<i class="icon-coin-collect text-blue fs-60"></i>
+							<CashCoin width="60" height="60" class="text-blue" />
 							<div class="number heading3 text-placehover"></div>
 						</div>
 						<div class="desc">
@@ -78,7 +89,7 @@
 				<div class="service-item hover-box-shadow bora-8 p-32 bg-white border-line-1px">
 					<a class="service-item-main flex-column gap-16" href="#!">
 						<div class="heading flex-between">
-							<i class="icon-text-search text-blue fs-60"></i>
+							<Calendar2Heart width="60" height="60" class="text-blue" />
 							<div class="number heading3 text-placehover"></div>
 						</div>
 						<div class="desc">
@@ -96,7 +107,7 @@
 				<div class="service-item hover-box-shadow bora-8 p-32 bg-white border-line-1px">
 					<a class="service-item-main flex-column gap-16" href="#!">
 						<div class="heading flex-between">
-							<i class="icon-hand-house text-blue fs-60"></i>
+							<PersonArmsUp width="60" height="60" class="text-blue" />
 							<div class="number heading3 text-placehover"></div>
 						</div>
 						<div class="desc">

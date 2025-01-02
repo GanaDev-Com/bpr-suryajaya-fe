@@ -1,3 +1,7 @@
+<script lang="ts">
+	import { ChevronDown } from 'svelte-bootstrap-icons';
+</script>
+
 <div class="faq-block mt-100">
 	<div class="container">
 		<div class="row flex-center">
@@ -8,7 +12,7 @@
 						class="question-item hover-box-shadow pointer mt-20 pl-28 pr-28 bora-8 border-line-1px"
 					>
 						<div class="question-item-main flex-between pt-16 pb-16 heading7">
-							Which device can I use to enter your service?<i class="ph-bold ph-plus fs-20 p-8"></i>
+							Which device can I use to enter your service? <ChevronDown />
 						</div>
 						<div class="content-question">
 							<div class="border-line"></div>
@@ -21,7 +25,7 @@
 						class="question-item hover-box-shadow pointer mt-20 pl-28 pr-28 bora-8 border-line-1px"
 					>
 						<div class="question-item-main flex-between pt-16 pb-16 heading7">
-							What are your products and services?<i class="ph-bold ph-plus fs-20 p-8"></i>
+							What are your products and services?<ChevronDown />
 						</div>
 						<div class="content-question">
 							<div class="border-line"></div>
@@ -34,9 +38,7 @@
 						class="question-item hover-box-shadow pointer mt-20 pl-28 pr-28 bora-8 border-line-1px"
 					>
 						<div class="question-item-main flex-between pt-16 pb-16 heading7">
-							How can I contact your customer support department?<i
-								class="ph-bold ph-plus fs-20 p-8"
-							></i>
+							How can I contact your customer support department?<ChevronDown />
 						</div>
 						<div class="content-question">
 							<div class="border-line"></div>
@@ -51,7 +53,7 @@
 						class="question-item hover-box-shadow pointer mt-20 pl-28 pr-28 bora-8 border-line-1px"
 					>
 						<div class="question-item-main flex-between pt-16 pb-16 heading7">
-							Can I return items if I'm not satisfied?<i class="ph-bold ph-plus fs-20 p-8"></i>
+							Can I return items if I'm not satisfied?<ChevronDown />
 						</div>
 						<div class="content-question">
 							<div class="border-line"></div>
@@ -68,7 +70,7 @@
 						class="question-item hover-box-shadow pointer mt-20 pl-28 pr-28 bora-8 border-line-1px"
 					>
 						<div class="question-item-main flex-between pt-16 pb-16 heading7">
-							What is your warranty policy?<i class="ph-bold ph-plus fs-20 p-8"></i>
+							What is your warranty policy?<ChevronDown />
 						</div>
 						<div class="content-question">
 							<div class="border-line"></div>
@@ -82,7 +84,7 @@
 						class="question-item hover-box-shadow pointer mt-20 pl-28 pr-28 bora-8 border-line-1px"
 					>
 						<div class="question-item-main flex-between pt-16 pb-16 heading7">
-							What are your shipping and delivery policies?<i class="ph-bold ph-plus fs-20 p-8"></i>
+							What are your shipping and delivery policies?<ChevronDown />
 						</div>
 						<div class="content-question">
 							<div class="border-line"></div>
@@ -96,7 +98,7 @@
 						class="question-item hover-box-shadow pointer mt-20 pl-28 pr-28 bora-8 border-line-1px"
 					>
 						<div class="question-item-main flex-between pt-16 pb-16 heading7">
-							What payment methods do you accept?<i class="ph-bold ph-plus fs-20 p-8"></i>
+							What payment methods do you accept?<ChevronDown />
 						</div>
 						<div class="content-question">
 							<div class="border-line"></div>
@@ -110,7 +112,7 @@
 						class="question-item hover-box-shadow pointer mt-20 pl-28 pr-28 bora-8 border-line-1px"
 					>
 						<div class="question-item-main flex-between pt-16 pb-16 heading7">
-							Do you have a customer loyalty program?<i class="ph-bold ph-plus fs-20 p-8"></i>
+							Do you have a customer loyalty program?<ChevronDown />
 						</div>
 						<div class="content-question">
 							<div class="border-line"></div>

@@ -1,6 +1,10 @@
+<script lang="ts">
+	import { ArrowLeft, ArrowRight } from 'svelte-bootstrap-icons';
+</script>
+
 <div class="slider-block style-one">
 	<div class="prev-arrow flex-center">
-		<i class="ph-bold ph-caret-left text-white"></i>
+		<ArrowLeft width="24" class="text-white" />
 	</div>
 	<div class="slider-main">
 		<div class="slider-item slider-first">
@@ -93,6 +97,6 @@
 		</div>
 	</div>
 	<div class="next-arrow flex-center">
-		<i class="ph-bold ph-caret-right text-white"></i>
+		<ArrowRight width="24" class="text-white" />
 	</div>
 </div>
