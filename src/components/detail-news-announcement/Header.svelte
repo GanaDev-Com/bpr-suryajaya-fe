@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { CaretRightFill, Calendar3 } from 'svelte-bootstrap-icons';
+	import { ChevronDoubleRight, Calendar3 } from 'svelte-bootstrap-icons';
 </script>
 
 <div class="slider-sub">
@@ -9,11 +9,12 @@
 	<div class="container">
 		<div class="heading-nav gap-4 mt-32">
 			<a class="hover-underline caption1 text-white" href="/">Beranda</a>
-			<CaretRightFill width="10" class="text-white" />
+			<ChevronDoubleRight width="12" class="text-white" />
+
 			<a class="hover-underline caption1 text-white" href="/news-announcement"
 				>Berita dan Pengumuman</a
 			>
-			<CaretRightFill width="10" class="text-white" />
+			<ChevronDoubleRight width="12" class="text-white" />
 			<div class="caption1 text-white">Detail</div>
 		</div>
 		<div class="d-flex justify-content-center">

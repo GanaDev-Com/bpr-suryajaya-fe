@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { GeoAlt } from 'svelte-bootstrap-icons';
+	import { GeoAlt, ChevronDoubleRight } from 'svelte-bootstrap-icons';
 </script>
 
 <div class="service-block mt-80">
@@ -39,9 +39,8 @@
 							</div>
 						</div>
 						<div class="read-block flex-item-center gap-4 hover-text-blue">
-							<span class="fs-14 fw-700 text-blue">Lihat Lokasi</span><i
-								class="ph-bold ph-caret-double-right fs-12 text-blue"
-							></i>
+							<span class="fs-14 fw-700 text-blue">Lihat Lokasi</span>
+							<ChevronDoubleRight width="12" class="text-blue" style="font-weight: bold;" />
 						</div>
 					</a>
 				</div>
@@ -74,9 +73,8 @@
 							</div>
 						</div>
 						<div class="read-block flex-item-center gap-4 hover-text-blue">
-							<span class="fs-14 fw-700 text-blue">Lihat Lokasi</span><i
-								class="ph-bold ph-caret-double-right fs-12 text-blue"
-							></i>
+							<span class="fs-14 fw-700 text-blue">Lihat Lokasi</span>
+							<ChevronDoubleRight width="12" class="text-blue" style="font-weight: bold;" />
 						</div>
 					</a>
 				</div>
@@ -109,9 +107,8 @@
 							</div>
 						</div>
 						<div class="read-block flex-item-center gap-4 hover-text-blue">
-							<span class="fs-14 fw-700 text-blue">Lihat Lokasi</span><i
-								class="ph-bold ph-caret-double-right fs-12 text-blue"
-							></i>
+							<span class="fs-14 fw-700 text-blue">Lihat Lokasi</span>
+							<ChevronDoubleRight width="12" class="text-blue" style="font-weight: bold;" />
 						</div>
 					</a>
 				</div>

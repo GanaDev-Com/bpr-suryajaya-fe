@@ -68,12 +68,7 @@
 				</a>
 			</div>
 			<div class="col-12 col-lg-4 pl-55">
-				<div class="search-block bora-8 bg-surface">
-					<input class="bora-8 bg-surface w-100" type="text" placeholder="Search" /><i
-						class="ph ph-magnifying-glass"
-					></i>
-				</div>
-				<div class="cate-block mt-40">
+				<div class="cate-block">
 					<div class="heading7">Daftar Tahun Laporan</div>
 					<div class="list-nav mt-16">
 						<div
