@@ -4,9 +4,6 @@
 
 <div class="service-block mt-80 pb-60">
 	<div class="container">
-		<div class="heading-block text-center">
-			<div class="heading4">Produk Tabungan Kami Lainnya</div>
-		</div>
 		<div class="list-service row mt-32 row-gap-32">
 			<div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6">
 				<div class="service-item hover-box-shadow bora-8 p-32 bg-white border-line-1px">
