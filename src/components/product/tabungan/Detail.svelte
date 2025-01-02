@@ -46,7 +46,11 @@
 			</div>
 			<div class="col-12 col-xl-6 col-lg-6 col-md-6 col-sm-6">
 				<div class="service-item hover-box-shadow bora-8 p-32 bg-white border-line-1px">
-					<a class="service-item-main flex-column gap-16" href="#!">
+					<a
+						class="service-item-main flex-column gap-16"
+						download="Brosur Tabungan BPR Suryajaya Kubutambahan.pdf"
+						href="/assets/images/product/kartika.pdf"
+					>
 						<div class="heading flex-between">
 							<EmojiSmile width="60" height="60" class="text-blue" />
 							<div class="number heading3 text-placehover">03</div>
@@ -59,6 +63,7 @@
 								upacara keagamaan dan investasi.
 							</div>
 						</div>
+						<div class="read fw-700 text-underline">Unduh Brosur</div>
 					</a>
 				</div>
 			</div>
