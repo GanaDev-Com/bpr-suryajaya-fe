@@ -2627,7 +2627,6 @@ template {
 	margin-top: 0;
 }
 
-
 @keyframes scroll {
 	from {
 		transform: translateX(0);
@@ -2667,7 +2666,6 @@ template {
 	opacity: 1;
 	visibility: visible;
 }
-
 
 .cta-three .container,
 .cta-three .row {
@@ -2741,7 +2739,6 @@ template {
 #footer .style-two .footer-block {
 	background-color: #173363;
 }
-
 
 @media (max-width: 1023.99px) {
 	#footer .footer-block .row .col-3:first-child {
