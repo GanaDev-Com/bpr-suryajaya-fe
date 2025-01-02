@@ -9,7 +9,7 @@
 	<div class="container">
 		<div class="heading-nav gap-4 mt-32">
 			<a class="hover-underline caption1 text-white" href="/">Beranda</a>
-			<ChevronDoubleRight width="12" class="text-white"/>
+			<ChevronDoubleRight width="12" class="text-white" />
 			<div class="caption1 text-white">Kenali Lebih Dekat</div>
 		</div>
 		<div class="text-nav">
