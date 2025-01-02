@@ -4,7 +4,7 @@
 
 <div class="slider-sub">
 	<div class="bg-img">
-		<img src="/assets/images/banner/contact.png" alt="banner" />
+		<img src="/assets/images/banner/banner.png" alt="banner" />
 	</div>
 	<div class="container">
 		<div class="heading-nav gap-4 mt-32">
