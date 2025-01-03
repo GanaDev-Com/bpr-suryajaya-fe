@@ -1,10 +1,12 @@
 <script lang="ts">
 	import { ChevronDoubleRight } from 'svelte-bootstrap-icons';
+	import Error from '$lib/images/error.webp';
+	import Banner from '$lib/images/banner/banner.webp';
 </script>
 
 <div class="slider-sub">
 	<div class="bg-img">
-		<img loading="lazy" src="/assets/images/banner/banner.png" alt="banner" />
+		<img loading="lazy" src={Banner} alt="banner" />
 	</div>
 	<div class="container">
 		<div class="heading-nav gap-4 mt-32">
@@ -27,7 +29,7 @@
 				<img
 					loading="lazy"
 					class="w-100 h-100 hover-scale display-block"
-					src="/assets/images/error.svg"
+					src={Error}
 					alt="Page Error"
 				/>
 			</div>

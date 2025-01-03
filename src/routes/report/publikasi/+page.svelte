@@ -1,6 +1,6 @@
 <script lang="ts">
-	import Header from '../../../components/report/publikasi/Header.svelte';
-	import Report from '../../../components/report/publikasi/Report.svelte';
+	import Header from '$lib/components/report/publikasi/Header.svelte';
+	import Report from '$lib/components/report/publikasi/Report.svelte';
 </script>
 
 <!-- Header Here -->
