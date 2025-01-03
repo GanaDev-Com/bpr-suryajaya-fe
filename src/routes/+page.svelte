@@ -1,12 +1,12 @@
 <script lang="ts">
-	import Header from '../components/home/Header.svelte';
-	import Counter from '../components/home/Counter.svelte';
-	import WhyChooseMe from '../components/home/WhyChooseMe.svelte';
-	import Product from '../components/home/Product.svelte';
-	import Blog from '../components/home/Blog.svelte';
-	import Slider from '../components/home/Slider.svelte';
-	import Simulasi from '../components/home/Simulasi.svelte';
-	import AboutUs from '../components/home/AboutUs.svelte';
+	import Header from '$lib/components/home/Header.svelte';
+	import Counter from '$lib/components/home/Counter.svelte';
+	import WhyChooseMe from '$lib/components/home/WhyChooseMe.svelte';
+	import Product from '$lib/components/home/Product.svelte';
+	import Blog from '$lib/components/home/Blog.svelte';
+	import Slider from '$lib/components/home/Slider.svelte';
+	import Simulasi from '$lib/components/home/Simulasi.svelte';
+	import AboutUs from '$lib/components/home/AboutUs.svelte';
 </script>
 
 <!-- Header Here -->

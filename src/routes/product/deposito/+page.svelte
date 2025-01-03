@@ -1,7 +1,7 @@
 <script lang="ts">
-	import Header from '../../../components/product/deposito/Header.svelte';
-	import Overview from '../../../components/product/deposito/Overview.svelte';
-	import Detail from '../../../components/product/deposito/Detail.svelte';
+	import Header from '$lib/components/product/deposito/Header.svelte';
+	import Overview from '$lib/components/product/deposito/Overview.svelte';
+	import Detail from '$lib/components/product/deposito/Detail.svelte';
 </script>
 
 <!-- Header Here -->

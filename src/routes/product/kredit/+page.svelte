@@ -1,7 +1,7 @@
 <script lang="ts">
-	import Header from '../../../components/product/kredit/Header.svelte';
-	import Overview from '../../../components/product/kredit/Overview.svelte';
-	import Detail from '../../../components/product/kredit/Detail.svelte';
+	import Header from '$lib/components/product/kredit/Header.svelte';
+	import Overview from '$lib/components/product/kredit/Overview.svelte';
+	import Detail from '$lib/components/product/kredit/Detail.svelte';
 </script>
 
 <!-- Header Here -->
